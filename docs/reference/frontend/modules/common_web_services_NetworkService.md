@@ -28,4 +28,4 @@ Creates the network service that reacts to general networking-related messages.
 
 #### Defined in
 
-[common/web/services/NetworkService.ts:15](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/services/NetworkService.ts#L15)
+[common/web/services/NetworkService.ts:15](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/services/NetworkService.ts#L15)

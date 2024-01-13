@@ -29,7 +29,7 @@ Abstract base class for general actions.
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:22](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L22)
+[common/web/ui/actions/ActionBase.ts:22](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/actions/ActionBase.ts#L22)
 
 ## Properties
 
@@ -39,7 +39,7 @@ Abstract base class for general actions.
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:19](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L19)
+[common/web/ui/actions/ActionBase.ts:19](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/actions/ActionBase.ts#L19)
 
 ___
 
@@ -49,7 +49,7 @@ ___
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:17](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L17)
+[common/web/ui/actions/ActionBase.ts:17](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/actions/ActionBase.ts#L17)
 
 ___
 
@@ -59,7 +59,7 @@ ___
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:20](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L20)
+[common/web/ui/actions/ActionBase.ts:20](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/actions/ActionBase.ts#L20)
 
 ## Accessors
 
@@ -75,7 +75,7 @@ The current state of the action.
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:101](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L101)
+[common/web/ui/actions/ActionBase.ts:101](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/actions/ActionBase.ts#L101)
 
 ___
 
@@ -91,7 +91,7 @@ Whether default notifiers are suppressed.
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:108](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L108)
+[common/web/ui/actions/ActionBase.ts:108](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/actions/ActionBase.ts#L108)
 
 • `set` **suppressDefaultNotifiers**(`suppress`): `void`
 
@@ -109,7 +109,7 @@ Suppress default notifiers. Must be called in `prepare` is called.
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:115](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L115)
+[common/web/ui/actions/ActionBase.ts:115](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/actions/ActionBase.ts#L115)
 
 ## Methods
 
@@ -129,7 +129,7 @@ Suppress default notifiers. Must be called in `prepare` is called.
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:50](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L50)
+[common/web/ui/actions/ActionBase.ts:50](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/actions/ActionBase.ts#L50)
 
 ___
 
@@ -152,7 +152,7 @@ Adds a new notifier for the specified state.
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:32](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L32)
+[common/web/ui/actions/ActionBase.ts:32](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/actions/ActionBase.ts#L32)
 
 ___
 
@@ -168,7 +168,7 @@ Executes the action.
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:56](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L56)
+[common/web/ui/actions/ActionBase.ts:56](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/actions/ActionBase.ts#L56)
 
 ___
 
@@ -189,7 +189,7 @@ ___
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:89](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L89)
+[common/web/ui/actions/ActionBase.ts:89](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/actions/ActionBase.ts#L89)
 
 ___
 
@@ -203,7 +203,7 @@ ___
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:95](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L95)
+[common/web/ui/actions/ActionBase.ts:95](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/actions/ActionBase.ts#L95)
 
 ___
 
@@ -217,7 +217,7 @@ ___
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:92](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L92)
+[common/web/ui/actions/ActionBase.ts:92](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/actions/ActionBase.ts#L92)
 
 ___
 
@@ -237,7 +237,7 @@ ___
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:44](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L44)
+[common/web/ui/actions/ActionBase.ts:44](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/actions/ActionBase.ts#L44)
 
 ___
 
@@ -260,4 +260,4 @@ Sets the active state of this action.
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:64](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L64)
+[common/web/ui/actions/ActionBase.ts:64](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/actions/ActionBase.ts#L64)

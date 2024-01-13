@@ -35,7 +35,7 @@ An instance of this class is always created when creating a ``WebComponent``; it
 
 #### Defined in
 
-[common/web/core/Core.ts:27](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/Core.ts#L27)
+[common/web/core/Core.ts:27](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/Core.ts#L27)
 
 ## Properties
 
@@ -45,7 +45,7 @@ An instance of this class is always created when creating a ``WebComponent``; it
 
 #### Defined in
 
-[common/web/core/Core.ts:20](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/Core.ts#L20)
+[common/web/core/Core.ts:20](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/Core.ts#L20)
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 #### Defined in
 
-[common/web/core/Core.ts:22](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/Core.ts#L22)
+[common/web/core/Core.ts:22](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/Core.ts#L22)
 
 ## Accessors
 
@@ -71,7 +71,7 @@ Whether we're running in Debug mode.
 
 #### Defined in
 
-[common/web/core/Core.ts:95](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/Core.ts#L95)
+[common/web/core/Core.ts:95](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/Core.ts#L95)
 
 ___
 
@@ -87,7 +87,7 @@ The global ``MessageBus`` instance.
 
 #### Defined in
 
-[common/web/core/Core.ts:88](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/Core.ts#L88)
+[common/web/core/Core.ts:88](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/Core.ts#L88)
 
 ## Methods
 
@@ -101,7 +101,7 @@ The global ``MessageBus`` instance.
 
 #### Defined in
 
-[common/web/core/Core.ts:45](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/Core.ts#L45)
+[common/web/core/Core.ts:45](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/Core.ts#L45)
 
 ___
 
@@ -115,7 +115,7 @@ ___
 
 #### Defined in
 
-[common/web/core/Core.ts:40](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/Core.ts#L40)
+[common/web/core/Core.ts:40](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/Core.ts#L40)
 
 ___
 
@@ -140,7 +140,7 @@ so you should rarely (if ever) need to call this method directly.
 
 #### Defined in
 
-[common/web/core/Core.ts:57](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/Core.ts#L57)
+[common/web/core/Core.ts:57](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/Core.ts#L57)
 
 ___
 
@@ -156,7 +156,7 @@ Starts periodic background tasks.
 
 #### Defined in
 
-[common/web/core/Core.ts:81](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/Core.ts#L81)
+[common/web/core/Core.ts:81](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/Core.ts#L81)
 
 ___
 
@@ -178,4 +178,4 @@ Removes a message service.
 
 #### Defined in
 
-[common/web/core/Core.ts:70](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/Core.ts#L70)
+[common/web/core/Core.ts:70](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/Core.ts#L70)

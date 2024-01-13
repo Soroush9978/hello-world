@@ -12,16 +12,18 @@ const config = {
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://research-data-services.org",
+  url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/",
+  baseUrl: '/hello-world/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "University of Muenster", // Usually your GitHub org/user name.
-  projectName: "rds-ng-docs", // Usually your repo name.
-
+  // Usually your GitHub org/user name.
+  projectName: 'rds-ng',
+  organizationName: 'Soroush9978',
+  deploymentBranch: "gh-pages",     // Usually your repo name
+ 
   onBrokenLinks: "ignore",
   onBrokenMarkdownLinks: "ignore",
 

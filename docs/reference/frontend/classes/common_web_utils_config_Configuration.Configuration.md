@@ -49,7 +49,7 @@ Notes:
 
 #### Defined in
 
-[common/web/utils/config/Configuration.ts:49](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/utils/config/Configuration.ts#L49)
+[common/web/utils/config/Configuration.ts:49](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/utils/config/Configuration.ts#L49)
 
 ## Properties
 
@@ -59,7 +59,7 @@ Notes:
 
 #### Defined in
 
-[common/web/utils/config/Configuration.ts:40](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/utils/config/Configuration.ts#L40)
+[common/web/utils/config/Configuration.ts:40](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/utils/config/Configuration.ts#L40)
 
 ___
 
@@ -69,7 +69,7 @@ ___
 
 #### Defined in
 
-[common/web/utils/config/Configuration.ts:42](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/utils/config/Configuration.ts#L42)
+[common/web/utils/config/Configuration.ts:42](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/utils/config/Configuration.ts#L42)
 
 ___
 
@@ -79,7 +79,7 @@ ___
 
 #### Defined in
 
-[common/web/utils/config/Configuration.ts:43](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/utils/config/Configuration.ts#L43)
+[common/web/utils/config/Configuration.ts:43](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/utils/config/Configuration.ts#L43)
 
 ___
 
@@ -89,7 +89,7 @@ ___
 
 #### Defined in
 
-[common/web/utils/config/Configuration.ts:39](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/utils/config/Configuration.ts#L39)
+[common/web/utils/config/Configuration.ts:39](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/utils/config/Configuration.ts#L39)
 
 ## Methods
 
@@ -114,7 +114,7 @@ Notes:
 
 #### Defined in
 
-[common/web/utils/config/Configuration.ts:71](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/utils/config/Configuration.ts#L71)
+[common/web/utils/config/Configuration.ts:71](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/utils/config/Configuration.ts#L71)
 
 ___
 
@@ -135,7 +135,7 @@ ___
 
 #### Defined in
 
-[common/web/utils/config/Configuration.ts:127](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/utils/config/Configuration.ts#L127)
+[common/web/utils/config/Configuration.ts:127](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/utils/config/Configuration.ts#L127)
 
 ___
 
@@ -155,7 +155,7 @@ Error - If the configuration data couldn't be parsed.
 
 #### Defined in
 
-[common/web/utils/config/Configuration.ts:59](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/utils/config/Configuration.ts#L59)
+[common/web/utils/config/Configuration.ts:59](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/utils/config/Configuration.ts#L59)
 
 ___
 
@@ -176,7 +176,7 @@ ___
 
 #### Defined in
 
-[common/web/utils/config/Configuration.ts:106](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/utils/config/Configuration.ts#L106)
+[common/web/utils/config/Configuration.ts:106](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/utils/config/Configuration.ts#L106)
 
 ___
 
@@ -198,7 +198,7 @@ ___
 
 #### Defined in
 
-[common/web/utils/config/Configuration.ts:114](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/utils/config/Configuration.ts#L114)
+[common/web/utils/config/Configuration.ts:114](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/utils/config/Configuration.ts#L114)
 
 ___
 
@@ -235,4 +235,4 @@ Error - The setting identifier was not found in the defaults.
 
 #### Defined in
 
-[common/web/utils/config/Configuration.ts:91](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/utils/config/Configuration.ts#L91)
+[common/web/utils/config/Configuration.ts:91](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/utils/config/Configuration.ts#L91)

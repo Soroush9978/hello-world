@@ -17,7 +17,7 @@ Defines from where a message has entered the system.
 
 #### Defined in
 
-[common/web/core/messaging/meta/MessageMetaInformation.ts:7](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/meta/MessageMetaInformation.ts#L7)
+[common/web/core/messaging/meta/MessageMetaInformation.ts:7](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/meta/MessageMetaInformation.ts#L7)
 
 ___
 
@@ -27,7 +27,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/meta/MessageMetaInformation.ts:5](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/meta/MessageMetaInformation.ts#L5)
+[common/web/core/messaging/meta/MessageMetaInformation.ts:5](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/meta/MessageMetaInformation.ts#L5)
 
 ___
 
@@ -37,4 +37,4 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/meta/MessageMetaInformation.ts:6](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/meta/MessageMetaInformation.ts#L6)
+[common/web/core/messaging/meta/MessageMetaInformation.ts:6](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/meta/MessageMetaInformation.ts#L6)

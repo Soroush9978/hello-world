@@ -40,7 +40,7 @@ Message meta information specific to ``Command``.
 
 #### Defined in
 
-[common/web/core/messaging/meta/CommandMetaInformation.ts:14](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/meta/CommandMetaInformation.ts#L14)
+[common/web/core/messaging/meta/CommandMetaInformation.ts:14](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/meta/CommandMetaInformation.ts#L14)
 
 ## Properties
 
@@ -52,7 +52,7 @@ Called when a reply was received for this command.
 
 #### Defined in
 
-[common/web/core/messaging/meta/CommandMetaInformation.ts:15](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/meta/CommandMetaInformation.ts#L15)
+[common/web/core/messaging/meta/CommandMetaInformation.ts:15](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/meta/CommandMetaInformation.ts#L15)
 
 ___
 
@@ -68,7 +68,7 @@ From where the message entered the system (locally or remotely).
 
 #### Defined in
 
-[common/web/core/messaging/meta/CommandMetaInformation.ts:14](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/meta/CommandMetaInformation.ts#L14)
+[common/web/core/messaging/meta/CommandMetaInformation.ts:14](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/meta/CommandMetaInformation.ts#L14)
 
 ___
 
@@ -80,7 +80,7 @@ Called when no reply was received for this command or an exception occurred.
 
 #### Defined in
 
-[common/web/core/messaging/meta/CommandMetaInformation.ts:16](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/meta/CommandMetaInformation.ts#L16)
+[common/web/core/messaging/meta/CommandMetaInformation.ts:16](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/meta/CommandMetaInformation.ts#L16)
 
 ___
 
@@ -96,7 +96,7 @@ Whether a reply is expected.
 
 #### Defined in
 
-[common/web/core/messaging/meta/MessageMetaInformation.ts:21](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/meta/MessageMetaInformation.ts#L21)
+[common/web/core/messaging/meta/MessageMetaInformation.ts:21](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/meta/MessageMetaInformation.ts#L21)
 
 ___
 
@@ -108,4 +108,4 @@ The timeout (in seconds) before a command is deemed not replied.
 
 #### Defined in
 
-[common/web/core/messaging/meta/CommandMetaInformation.ts:17](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/meta/CommandMetaInformation.ts#L17)
+[common/web/core/messaging/meta/CommandMetaInformation.ts:17](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/meta/CommandMetaInformation.ts#L17)

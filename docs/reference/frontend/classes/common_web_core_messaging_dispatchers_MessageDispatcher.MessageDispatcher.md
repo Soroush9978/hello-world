@@ -54,7 +54,7 @@ The message dispatcher also performs pre- and post-dispatching tasks and takes c
 
 #### Defined in
 
-[common/web/core/messaging/dispatchers/MessageDispatcher.ts:14](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/dispatchers/MessageDispatcher.ts#L14)
+[common/web/core/messaging/dispatchers/MessageDispatcher.ts:14](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/dispatchers/MessageDispatcher.ts#L14)
 
 ## Methods
 
@@ -76,7 +76,7 @@ The message dispatcher also performs pre- and post-dispatching tasks and takes c
 
 #### Defined in
 
-[common/web/core/messaging/dispatchers/MessageDispatcher.ts:75](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/dispatchers/MessageDispatcher.ts#L75)
+[common/web/core/messaging/dispatchers/MessageDispatcher.ts:75](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/dispatchers/MessageDispatcher.ts#L75)
 
 ___
 
@@ -114,7 +114,7 @@ Error - If the handler requires a different message type.
 
 #### Defined in
 
-[common/web/core/messaging/dispatchers/MessageDispatcher.ts:46](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/dispatchers/MessageDispatcher.ts#L46)
+[common/web/core/messaging/dispatchers/MessageDispatcher.ts:46](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/dispatchers/MessageDispatcher.ts#L46)
 
 ___
 
@@ -139,7 +139,7 @@ This method is called after any service-registered message handler have been inv
 
 #### Defined in
 
-[common/web/core/messaging/dispatchers/MessageDispatcher.ts:72](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/dispatchers/MessageDispatcher.ts#L72)
+[common/web/core/messaging/dispatchers/MessageDispatcher.ts:72](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/dispatchers/MessageDispatcher.ts#L72)
 
 ___
 
@@ -164,7 +164,7 @@ This method is called before any service-registered message handler is invoked.
 
 #### Defined in
 
-[common/web/core/messaging/dispatchers/MessageDispatcher.ts:30](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/dispatchers/MessageDispatcher.ts#L30)
+[common/web/core/messaging/dispatchers/MessageDispatcher.ts:30](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/dispatchers/MessageDispatcher.ts#L30)
 
 ___
 
@@ -180,4 +180,4 @@ Called to perform periodic tasks.
 
 #### Defined in
 
-[common/web/core/messaging/dispatchers/MessageDispatcher.ts:19](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/dispatchers/MessageDispatcher.ts#L19)
+[common/web/core/messaging/dispatchers/MessageDispatcher.ts:19](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/dispatchers/MessageDispatcher.ts#L19)

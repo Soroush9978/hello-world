@@ -33,7 +33,7 @@ distinguish multiple instances of the same unit).
 
 #### Defined in
 
-[common/web/utils/UnitID.ts:16](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/utils/UnitID.ts#L16)
+[common/web/utils/UnitID.ts:16](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/utils/UnitID.ts#L16)
 
 ## Properties
 
@@ -45,7 +45,7 @@ The instance specifier.
 
 #### Defined in
 
-[common/web/utils/UnitID.ts:16](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/utils/UnitID.ts#L16)
+[common/web/utils/UnitID.ts:16](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/utils/UnitID.ts#L16)
 
 ___
 
@@ -57,7 +57,7 @@ The unit type.
 
 #### Defined in
 
-[common/web/utils/UnitID.ts:16](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/utils/UnitID.ts#L16)
+[common/web/utils/UnitID.ts:16](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/utils/UnitID.ts#L16)
 
 ___
 
@@ -69,7 +69,7 @@ The unit name.
 
 #### Defined in
 
-[common/web/utils/UnitID.ts:16](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/utils/UnitID.ts#L16)
+[common/web/utils/UnitID.ts:16](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/utils/UnitID.ts#L16)
 
 ___
 
@@ -79,7 +79,7 @@ ___
 
 #### Defined in
 
-[common/web/utils/UnitID.ts:9](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/utils/UnitID.ts#L9)
+[common/web/utils/UnitID.ts:9](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/utils/UnitID.ts#L9)
 
 ## Methods
 
@@ -105,7 +105,7 @@ Note that the ``instance`` specifiers are only compared if both are not ``undefi
 
 #### Defined in
 
-[common/web/utils/UnitID.ts:28](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/utils/UnitID.ts#L28)
+[common/web/utils/UnitID.ts:28](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/utils/UnitID.ts#L28)
 
 ___
 
@@ -121,7 +121,7 @@ Converts the unit ID to a string of the form ``<type>/<unit>/<instance>`` or ``<
 
 #### Defined in
 
-[common/web/utils/UnitID.ts:70](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/utils/UnitID.ts#L70)
+[common/web/utils/UnitID.ts:70](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/utils/UnitID.ts#L70)
 
 ___
 
@@ -151,4 +151,4 @@ Error - If the passed string is invalid.
 
 #### Defined in
 
-[common/web/utils/UnitID.ts:53](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/utils/UnitID.ts#L53)
+[common/web/utils/UnitID.ts:53](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/utils/UnitID.ts#L53)

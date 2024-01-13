@@ -20,4 +20,4 @@ The project feature identifier type.
 
 #### Defined in
 
-[common/web/data/entities/features/ProjectFeature.ts:4](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/data/entities/features/ProjectFeature.ts#L4)
+[common/web/data/entities/features/ProjectFeature.ts:4](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/data/entities/features/ProjectFeature.ts#L4)

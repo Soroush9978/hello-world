@@ -37,7 +37,7 @@ To be error tolerant, any exceptions that arise during message handling will be 
 
 #### Defined in
 
-[common/web/core/messaging/MessageBus.ts:42](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/MessageBus.ts#L42)
+[common/web/core/messaging/MessageBus.ts:42](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/MessageBus.ts#L42)
 
 ## Properties
 
@@ -47,7 +47,7 @@ To be error tolerant, any exceptions that arise during message handling will be 
 
 #### Defined in
 
-[common/web/core/messaging/MessageBus.ts:32](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/MessageBus.ts#L32)
+[common/web/core/messaging/MessageBus.ts:32](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/MessageBus.ts#L32)
 
 ___
 
@@ -57,7 +57,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/MessageBus.ts:36](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/MessageBus.ts#L36)
+[common/web/core/messaging/MessageBus.ts:36](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/MessageBus.ts#L36)
 
 ___
 
@@ -67,7 +67,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/MessageBus.ts:34](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/MessageBus.ts#L34)
+[common/web/core/messaging/MessageBus.ts:34](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/MessageBus.ts#L34)
 
 ___
 
@@ -77,7 +77,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/MessageBus.ts:37](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/MessageBus.ts#L37)
+[common/web/core/messaging/MessageBus.ts:37](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/MessageBus.ts#L37)
 
 ___
 
@@ -87,7 +87,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/MessageBus.ts:35](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/MessageBus.ts#L35)
+[common/web/core/messaging/MessageBus.ts:35](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/MessageBus.ts#L35)
 
 ## Methods
 
@@ -117,7 +117,7 @@ Adds a new message service to the bus.
 
 #### Defined in
 
-[common/web/core/messaging/MessageBus.ts:66](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/MessageBus.ts#L66)
+[common/web/core/messaging/MessageBus.ts:66](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/MessageBus.ts#L66)
 
 ___
 
@@ -145,7 +145,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/MessageBus.ts:180](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/MessageBus.ts#L180)
+[common/web/core/messaging/MessageBus.ts:180](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/MessageBus.ts#L180)
 
 ___
 
@@ -159,7 +159,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/MessageBus.ts:55](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/MessageBus.ts#L55)
+[common/web/core/messaging/MessageBus.ts:55](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/MessageBus.ts#L55)
 
 ___
 
@@ -185,7 +185,7 @@ the ``MessageRouter`` will determine if it needs to be dispatched to another com
 
 #### Defined in
 
-[common/web/core/messaging/MessageBus.ts:110](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/MessageBus.ts#L110)
+[common/web/core/messaging/MessageBus.ts:110](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/MessageBus.ts#L110)
 
 ___
 
@@ -215,7 +215,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/MessageBus.ts:161](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/MessageBus.ts#L161)
+[common/web/core/messaging/MessageBus.ts:161](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/MessageBus.ts#L161)
 
 ___
 
@@ -236,7 +236,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/MessageBus.ts:133](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/MessageBus.ts#L133)
+[common/web/core/messaging/MessageBus.ts:133](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/MessageBus.ts#L133)
 
 ___
 
@@ -250,7 +250,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/MessageBus.ts:125](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/MessageBus.ts#L125)
+[common/web/core/messaging/MessageBus.ts:125](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/MessageBus.ts#L125)
 
 ___
 
@@ -271,7 +271,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/MessageBus.ts:157](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/MessageBus.ts#L157)
+[common/web/core/messaging/MessageBus.ts:157](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/MessageBus.ts#L157)
 
 ___
 
@@ -301,7 +301,7 @@ Removes a message service from the bus.
 
 #### Defined in
 
-[common/web/core/messaging/MessageBus.ts:82](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/MessageBus.ts#L82)
+[common/web/core/messaging/MessageBus.ts:82](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/MessageBus.ts#L82)
 
 ___
 
@@ -317,4 +317,4 @@ Initiates periodic tasks performed by the bus.
 
 #### Defined in
 
-[common/web/core/messaging/MessageBus.ts:95](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/MessageBus.ts#L95)
+[common/web/core/messaging/MessageBus.ts:95](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/MessageBus.ts#L95)

@@ -20,7 +20,7 @@ The state of the connection to the server:
 
 #### Defined in
 
-[common/web/data/stores/NetworkStore.ts:14](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/data/stores/NetworkStore.ts#L14)
+[common/web/data/stores/NetworkStore.ts:14](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/data/stores/NetworkStore.ts#L14)
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 #### Defined in
 
-[common/web/data/stores/NetworkStore.ts:13](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/data/stores/NetworkStore.ts#L13)
+[common/web/data/stores/NetworkStore.ts:13](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/data/stores/NetworkStore.ts#L13)
 
 ___
 
@@ -40,4 +40,4 @@ ___
 
 #### Defined in
 
-[common/web/data/stores/NetworkStore.ts:15](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/data/stores/NetworkStore.ts#L15)
+[common/web/data/stores/NetworkStore.ts:15](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/data/stores/NetworkStore.ts#L15)

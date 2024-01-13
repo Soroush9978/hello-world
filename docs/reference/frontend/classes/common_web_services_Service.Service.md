@@ -67,7 +67,7 @@ Message handlers are defined using the ``message_handler`` decorator, as can be 
 
 #### Defined in
 
-[common/web/services/Service.ts:40](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/services/Service.ts#L40)
+[common/web/services/Service.ts:40](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/services/Service.ts#L40)
 
 ## Properties
 
@@ -77,7 +77,7 @@ Message handlers are defined using the ``message_handler`` decorator, as can be 
 
 #### Defined in
 
-[common/web/services/Service.ts:32](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/services/Service.ts#L32)
+[common/web/services/Service.ts:32](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/services/Service.ts#L32)
 
 ## Accessors
 
@@ -93,7 +93,7 @@ The service's message builder.
 
 #### Defined in
 
-[common/web/services/Service.ts:82](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/services/Service.ts#L82)
+[common/web/services/Service.ts:82](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/services/Service.ts#L82)
 
 ___
 
@@ -113,7 +113,7 @@ MessageService.messageHandlers
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageService.ts:62](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageService.ts#L62)
+[common/web/core/messaging/handlers/MessageService.ts:62](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/handlers/MessageService.ts#L62)
 
 ___
 
@@ -129,7 +129,7 @@ The name of this service.
 
 #### Defined in
 
-[common/web/services/Service.ts:75](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/services/Service.ts#L75)
+[common/web/services/Service.ts:75](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/services/Service.ts#L75)
 
 ## Methods
 
@@ -159,7 +159,7 @@ Creates a new service context.
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageService.ts:46](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageService.ts#L46)
+[common/web/core/messaging/handlers/MessageService.ts:46](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/handlers/MessageService.ts#L46)
 
 ___
 
@@ -181,7 +181,7 @@ Creates a new message builder.
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageService.ts:55](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageService.ts#L55)
+[common/web/core/messaging/handlers/MessageService.ts:55](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/handlers/MessageService.ts#L55)
 
 ___
 
@@ -221,7 +221,7 @@ To define a new message handler, use the following pattern:
 
 #### Defined in
 
-[common/web/services/Service.ts:63](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/services/Service.ts#L63)
+[common/web/services/Service.ts:63](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/services/Service.ts#L63)
 
 ___
 
@@ -237,4 +237,4 @@ Gets the string representation of this service.
 
 #### Defined in
 
-[common/web/services/Service.ts:89](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/services/Service.ts#L89)
+[common/web/services/Service.ts:89](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/services/Service.ts#L89)

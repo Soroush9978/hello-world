@@ -33,7 +33,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageHandler.ts:5](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageHandler.ts#L5)
+[common/web/core/messaging/handlers/MessageHandler.ts:5](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/handlers/MessageHandler.ts#L5)
 
 ___
 
@@ -43,4 +43,4 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageHandler.ts:27](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageHandler.ts#L27)
+[common/web/core/messaging/handlers/MessageHandler.ts:27](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/handlers/MessageHandler.ts#L27)

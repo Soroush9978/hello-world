@@ -27,7 +27,7 @@ Holds mappings for message handlers.
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageHandlers.ts:11](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageHandlers.ts#L11)
+[common/web/core/messaging/handlers/MessageHandlers.ts:11](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/handlers/MessageHandlers.ts#L11)
 
 ## Methods
 
@@ -51,7 +51,7 @@ Adds a new message handler mapping.
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageHandlers.ts:20](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageHandlers.ts#L20)
+[common/web/core/messaging/handlers/MessageHandlers.ts:20](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/handlers/MessageHandlers.ts#L20)
 
 ___
 
@@ -77,7 +77,7 @@ The message name filter can be a complete message name, or a wildcard pattern us
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageHandlers.ts:33](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageHandlers.ts#L33)
+[common/web/core/messaging/handlers/MessageHandlers.ts:33](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/handlers/MessageHandlers.ts#L33)
 
 ___
 
@@ -93,4 +93,4 @@ Gets the string representation of all mapped handlers.
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageHandlers.ts:47](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageHandlers.ts#L47)
+[common/web/core/messaging/handlers/MessageHandlers.ts:47](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/handlers/MessageHandlers.ts#L47)

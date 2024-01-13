@@ -33,7 +33,7 @@ Deep-clones an object into another one.
 
 #### Defined in
 
-[common/web/utils/DeepMerge.ts:41](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/utils/DeepMerge.ts#L41)
+[common/web/utils/DeepMerge.ts:41](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/utils/DeepMerge.ts#L41)
 
 ___
 
@@ -62,4 +62,4 @@ Deep-merge two objects.
 
 #### Defined in
 
-[common/web/utils/DeepMerge.ts:13](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/utils/DeepMerge.ts#L13)
+[common/web/utils/DeepMerge.ts:13](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/utils/DeepMerge.ts#L13)

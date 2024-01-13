@@ -33,7 +33,7 @@ when represented as a string, all component tokens are separated by dots.
 
 #### Defined in
 
-[common/web/utils/config/SettingID.ts:10](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/utils/config/SettingID.ts#L10)
+[common/web/utils/config/SettingID.ts:10](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/utils/config/SettingID.ts#L10)
 
 ## Properties
 
@@ -43,7 +43,7 @@ when represented as a string, all component tokens are separated by dots.
 
 #### Defined in
 
-[common/web/utils/config/SettingID.ts:10](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/utils/config/SettingID.ts#L10)
+[common/web/utils/config/SettingID.ts:10](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/utils/config/SettingID.ts#L10)
 
 ___
 
@@ -53,7 +53,7 @@ ___
 
 #### Defined in
 
-[common/web/utils/config/SettingID.ts:10](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/utils/config/SettingID.ts#L10)
+[common/web/utils/config/SettingID.ts:10](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/utils/config/SettingID.ts#L10)
 
 ## Methods
 
@@ -80,7 +80,7 @@ prepending a ``prefix``, as well as making everything uppercase.
 
 #### Defined in
 
-[common/web/utils/config/SettingID.ts:32](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/utils/config/SettingID.ts#L32)
+[common/web/utils/config/SettingID.ts:32](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/utils/config/SettingID.ts#L32)
 
 ___
 
@@ -98,7 +98,7 @@ Splits the entire identifier into single string tokens.
 
 #### Defined in
 
-[common/web/utils/config/SettingID.ts:18](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/utils/config/SettingID.ts#L18)
+[common/web/utils/config/SettingID.ts:18](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/utils/config/SettingID.ts#L18)
 
 ___
 
@@ -116,4 +116,4 @@ Converts the setting ID to a string.
 
 #### Defined in
 
-[common/web/utils/config/SettingID.ts:41](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/utils/config/SettingID.ts#L41)
+[common/web/utils/config/SettingID.ts:41](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/utils/config/SettingID.ts#L41)

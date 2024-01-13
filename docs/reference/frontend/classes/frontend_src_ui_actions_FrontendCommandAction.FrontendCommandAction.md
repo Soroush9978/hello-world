@@ -61,7 +61,7 @@ Command actions specific to the frontend.
 
 #### Defined in
 
-[frontend/src/ui/actions/FrontendCommandAction.ts:16](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/actions/FrontendCommandAction.ts#L16)
+[frontend/src/ui/actions/FrontendCommandAction.ts:16](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/frontend/src/ui/actions/FrontendCommandAction.ts#L16)
 
 ## Properties
 
@@ -71,7 +71,7 @@ Command actions specific to the frontend.
 
 #### Defined in
 
-[frontend/src/ui/actions/FrontendCommandAction.ts:12](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/actions/FrontendCommandAction.ts#L12)
+[frontend/src/ui/actions/FrontendCommandAction.ts:12](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/frontend/src/ui/actions/FrontendCommandAction.ts#L12)
 
 ___
 
@@ -85,7 +85,7 @@ ___
 
 #### Defined in
 
-[common/web/ui/actions/Action.ts:19](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/Action.ts#L19)
+[common/web/ui/actions/Action.ts:19](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/actions/Action.ts#L19)
 
 ___
 
@@ -95,7 +95,7 @@ ___
 
 #### Defined in
 
-[frontend/src/ui/actions/FrontendCommandAction.ts:14](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/actions/FrontendCommandAction.ts#L14)
+[frontend/src/ui/actions/FrontendCommandAction.ts:14](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/frontend/src/ui/actions/FrontendCommandAction.ts#L14)
 
 ___
 
@@ -109,7 +109,7 @@ ___
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:17](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L17)
+[common/web/ui/actions/ActionBase.ts:17](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/actions/ActionBase.ts#L17)
 
 ## Accessors
 
@@ -127,7 +127,7 @@ CommandAction.messageBuilder
 
 #### Defined in
 
-[common/web/ui/actions/Action.ts:58](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/Action.ts#L58)
+[common/web/ui/actions/Action.ts:58](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/actions/Action.ts#L58)
 
 ___
 
@@ -147,7 +147,7 @@ CommandAction.state
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:101](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L101)
+[common/web/ui/actions/ActionBase.ts:101](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/actions/ActionBase.ts#L101)
 
 ___
 
@@ -167,7 +167,7 @@ CommandAction.suppressDefaultNotifiers
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:108](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L108)
+[common/web/ui/actions/ActionBase.ts:108](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/actions/ActionBase.ts#L108)
 
 • `set` **suppressDefaultNotifiers**(`suppress`): `void`
 
@@ -189,7 +189,7 @@ CommandAction.suppressDefaultNotifiers
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:115](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L115)
+[common/web/ui/actions/ActionBase.ts:115](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/actions/ActionBase.ts#L115)
 
 ## Methods
 
@@ -213,7 +213,7 @@ CommandAction.suppressDefaultNotifiers
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:50](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L50)
+[common/web/ui/actions/ActionBase.ts:50](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/actions/ActionBase.ts#L50)
 
 ___
 
@@ -240,7 +240,7 @@ Adds a new notifier for the specified state.
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:32](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L32)
+[common/web/ui/actions/ActionBase.ts:32](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/actions/ActionBase.ts#L32)
 
 ___
 
@@ -260,7 +260,7 @@ Executes the action (i.e., the message will be emitted).
 
 #### Defined in
 
-[common/web/ui/actions/Action.ts:43](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/Action.ts#L43)
+[common/web/ui/actions/Action.ts:43](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/actions/Action.ts#L43)
 
 ___
 
@@ -285,7 +285,7 @@ ___
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:89](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L89)
+[common/web/ui/actions/ActionBase.ts:89](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/actions/ActionBase.ts#L89)
 
 ___
 
@@ -303,7 +303,7 @@ ___
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:95](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L95)
+[common/web/ui/actions/ActionBase.ts:95](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/actions/ActionBase.ts#L95)
 
 ___
 
@@ -321,7 +321,7 @@ ___
 
 #### Defined in
 
-[common/web/ui/actions/CommandAction.ts:11](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/CommandAction.ts#L11)
+[common/web/ui/actions/CommandAction.ts:11](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/actions/CommandAction.ts#L11)
 
 ___
 
@@ -349,7 +349,7 @@ Prepares this action.
 
 #### Defined in
 
-[common/web/ui/actions/Action.ts:38](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/Action.ts#L38)
+[common/web/ui/actions/Action.ts:38](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/actions/Action.ts#L38)
 
 ___
 
@@ -373,7 +373,7 @@ ___
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:44](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L44)
+[common/web/ui/actions/ActionBase.ts:44](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/actions/ActionBase.ts#L44)
 
 ___
 
@@ -400,4 +400,4 @@ Sets the active state of this action.
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:64](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L64)
+[common/web/ui/actions/ActionBase.ts:64](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/actions/ActionBase.ts#L64)

@@ -37,4 +37,4 @@ Data class for the metadata project feature.
 
 #### Defined in
 
-[common/web/data/entities/features/MetadataFeature.ts:7](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/data/entities/features/MetadataFeature.ts#L7)
+[common/web/data/entities/features/MetadataFeature.ts:7](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/data/entities/features/MetadataFeature.ts#L7)

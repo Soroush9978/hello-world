@@ -42,7 +42,7 @@ Note that the store type isn't explicitely defined due to Pinia's excessive type
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageContext.ts:35](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageContext.ts#L35)
+[common/web/core/messaging/handlers/MessageContext.ts:35](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/handlers/MessageContext.ts#L35)
 
 ## Properties
 
@@ -56,7 +56,7 @@ Note that the store type isn't explicitely defined due to Pinia's excessive type
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageContext.ts:25](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageContext.ts#L25)
+[common/web/core/messaging/handlers/MessageContext.ts:25](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/handlers/MessageContext.ts#L25)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[frontend/src/services/FrontendServiceContext.ts:12](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/services/FrontendServiceContext.ts#L12)
+[frontend/src/services/FrontendServiceContext.ts:12](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/frontend/src/services/FrontendServiceContext.ts#L12)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageContext.ts:24](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageContext.ts#L24)
+[common/web/core/messaging/handlers/MessageContext.ts:24](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/handlers/MessageContext.ts#L24)
 
 ___
 
@@ -94,7 +94,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageContext.ts:22](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageContext.ts#L22)
+[common/web/core/messaging/handlers/MessageContext.ts:22](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/handlers/MessageContext.ts#L22)
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageContext.ts:21](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageContext.ts#L21)
+[common/web/core/messaging/handlers/MessageContext.ts:21](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/handlers/MessageContext.ts#L21)
 
 ___
 
@@ -118,7 +118,7 @@ ___
 
 #### Defined in
 
-[frontend/src/services/FrontendServiceContext.ts:13](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/services/FrontendServiceContext.ts#L13)
+[frontend/src/services/FrontendServiceContext.ts:13](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/frontend/src/services/FrontendServiceContext.ts#L13)
 
 ___
 
@@ -132,7 +132,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageContext.ts:27](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageContext.ts#L27)
+[common/web/core/messaging/handlers/MessageContext.ts:27](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/handlers/MessageContext.ts#L27)
 
 ## Accessors
 
@@ -152,7 +152,7 @@ ServiceContext.config
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageContext.ts:112](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageContext.ts#L112)
+[common/web/core/messaging/handlers/MessageContext.ts:112](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/handlers/MessageContext.ts#L112)
 
 ___
 
@@ -168,7 +168,7 @@ The connectors store.
 
 #### Defined in
 
-[frontend/src/services/FrontendServiceContext.ts:18](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/services/FrontendServiceContext.ts#L18)
+[frontend/src/services/FrontendServiceContext.ts:18](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/frontend/src/services/FrontendServiceContext.ts#L18)
 
 ___
 
@@ -188,7 +188,7 @@ ServiceContext.isEntrypointClient
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageContext.ts:91](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageContext.ts#L91)
+[common/web/core/messaging/handlers/MessageContext.ts:91](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/handlers/MessageContext.ts#L91)
 
 ___
 
@@ -208,7 +208,7 @@ ServiceContext.isEntrypointLocal
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageContext.ts:77](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageContext.ts#L77)
+[common/web/core/messaging/handlers/MessageContext.ts:77](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/handlers/MessageContext.ts#L77)
 
 ___
 
@@ -228,7 +228,7 @@ ServiceContext.isEntrypointServer
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageContext.ts:84](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageContext.ts#L84)
+[common/web/core/messaging/handlers/MessageContext.ts:84](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/handlers/MessageContext.ts#L84)
 
 ___
 
@@ -248,7 +248,7 @@ ServiceContext.logger
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageContext.ts:105](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageContext.ts#L105)
+[common/web/core/messaging/handlers/MessageContext.ts:105](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/handlers/MessageContext.ts#L105)
 
 ___
 
@@ -268,7 +268,7 @@ ServiceContext.messageBuilder
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageContext.ts:98](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageContext.ts#L98)
+[common/web/core/messaging/handlers/MessageContext.ts:98](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/handlers/MessageContext.ts#L98)
 
 ___
 
@@ -284,7 +284,7 @@ The projects store.
 
 #### Defined in
 
-[frontend/src/services/FrontendServiceContext.ts:25](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/services/FrontendServiceContext.ts#L25)
+[frontend/src/services/FrontendServiceContext.ts:25](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/frontend/src/services/FrontendServiceContext.ts#L25)
 
 ## Methods
 
@@ -310,7 +310,7 @@ Initiates execution within this context.
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageContext.ts:48](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageContext.ts#L48)
+[common/web/core/messaging/handlers/MessageContext.ts:48](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/handlers/MessageContext.ts#L48)
 
 ___
 
@@ -330,7 +330,7 @@ Finishes execution within this context.
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageContext.ts:55](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageContext.ts#L55)
+[common/web/core/messaging/handlers/MessageContext.ts:55](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/handlers/MessageContext.ts#L55)
 
 ___
 
@@ -356,4 +356,4 @@ Reports an error occurred during context execution.
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageContext.ts:64](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageContext.ts#L64)
+[common/web/core/messaging/handlers/MessageContext.ts:64](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/handlers/MessageContext.ts#L64)

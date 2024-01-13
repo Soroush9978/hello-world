@@ -45,7 +45,7 @@ The JSON file needs to be structured like this:
 
 #### Defined in
 
-[common/web/component/MetaInformation.ts:41](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/MetaInformation.ts#L41)
+[common/web/component/MetaInformation.ts:41](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/component/MetaInformation.ts#L41)
 
 ## Accessors
 
@@ -61,7 +61,7 @@ The project title.
 
 #### Defined in
 
-[common/web/component/MetaInformation.ts:46](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/MetaInformation.ts#L46)
+[common/web/component/MetaInformation.ts:46](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/component/MetaInformation.ts#L46)
 
 ___
 
@@ -77,7 +77,7 @@ The project version (see https://semver.org).
 
 #### Defined in
 
-[common/web/component/MetaInformation.ts:53](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/MetaInformation.ts#L53)
+[common/web/component/MetaInformation.ts:53](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/component/MetaInformation.ts#L53)
 
 ## Methods
 
@@ -103,4 +103,4 @@ This meta information includes the ``name`` of the component, as well as its ``d
 
 #### Defined in
 
-[common/web/component/MetaInformation.ts:66](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/MetaInformation.ts#L66)
+[common/web/component/MetaInformation.ts:66](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/component/MetaInformation.ts#L66)

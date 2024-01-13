@@ -31,7 +31,7 @@ a new logger instance. It offers the same public interface as an actual ``Logger
 
 #### Defined in
 
-[common/web/core/logging/LoggerProxy.ts:18](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/LoggerProxy.ts#L18)
+[common/web/core/logging/LoggerProxy.ts:18](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/logging/LoggerProxy.ts#L18)
 
 ## Properties
 
@@ -41,7 +41,7 @@ a new logger instance. It offers the same public interface as an actual ``Logger
 
 #### Defined in
 
-[common/web/core/logging/LoggerProxy.ts:13](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/LoggerProxy.ts#L13)
+[common/web/core/logging/LoggerProxy.ts:13](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/logging/LoggerProxy.ts#L13)
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 #### Defined in
 
-[common/web/core/logging/LoggerProxy.ts:11](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/LoggerProxy.ts#L11)
+[common/web/core/logging/LoggerProxy.ts:11](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/logging/LoggerProxy.ts#L11)
 
 ## Methods
 
@@ -74,7 +74,7 @@ Adds a new paramter that is always automatically passed to the logger.
 
 #### Defined in
 
-[common/web/core/logging/LoggerProxy.ts:28](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/LoggerProxy.ts#L28)
+[common/web/core/logging/LoggerProxy.ts:28](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/logging/LoggerProxy.ts#L28)
 
 ___
 
@@ -90,7 +90,7 @@ Removes all stored parameters.
 
 #### Defined in
 
-[common/web/core/logging/LoggerProxy.ts:44](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/LoggerProxy.ts#L44)
+[common/web/core/logging/LoggerProxy.ts:44](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/logging/LoggerProxy.ts#L44)
 
 ___
 
@@ -114,7 +114,7 @@ Logs a debugging message.
 
 #### Defined in
 
-[common/web/core/logging/LoggerProxy.ts:55](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/LoggerProxy.ts#L55)
+[common/web/core/logging/LoggerProxy.ts:55](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/logging/LoggerProxy.ts#L55)
 
 ___
 
@@ -138,7 +138,7 @@ Logs an error message.
 
 #### Defined in
 
-[common/web/core/logging/LoggerProxy.ts:88](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/LoggerProxy.ts#L88)
+[common/web/core/logging/LoggerProxy.ts:88](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/logging/LoggerProxy.ts#L88)
 
 ___
 
@@ -162,7 +162,7 @@ Logs an info message.
 
 #### Defined in
 
-[common/web/core/logging/LoggerProxy.ts:66](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/LoggerProxy.ts#L66)
+[common/web/core/logging/LoggerProxy.ts:66](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/logging/LoggerProxy.ts#L66)
 
 ___
 
@@ -184,7 +184,7 @@ Removes a parameter that has been added previously.
 
 #### Defined in
 
-[common/web/core/logging/LoggerProxy.ts:37](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/LoggerProxy.ts#L37)
+[common/web/core/logging/LoggerProxy.ts:37](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/logging/LoggerProxy.ts#L37)
 
 ___
 
@@ -208,4 +208,4 @@ Logs a warning message.
 
 #### Defined in
 
-[common/web/core/logging/LoggerProxy.ts:77](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/LoggerProxy.ts#L77)
+[common/web/core/logging/LoggerProxy.ts:77](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/logging/LoggerProxy.ts#L77)

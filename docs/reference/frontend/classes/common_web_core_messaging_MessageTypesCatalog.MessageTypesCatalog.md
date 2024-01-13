@@ -50,7 +50,7 @@ ItemsCatalog.items
 
 #### Defined in
 
-[common/web/utils/ItemsCatalog.ts:60](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/utils/ItemsCatalog.ts#L60)
+[common/web/utils/ItemsCatalog.ts:60](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/utils/ItemsCatalog.ts#L60)
 
 ## Methods
 
@@ -73,7 +73,7 @@ Notes:
 
 #### Defined in
 
-[common/web/utils/ItemsCatalog.ts:18](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/utils/ItemsCatalog.ts#L18)
+[common/web/utils/ItemsCatalog.ts:18](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/utils/ItemsCatalog.ts#L18)
 
 ___
 
@@ -101,7 +101,7 @@ Finds the item associated with the given ``name``.
 
 #### Defined in
 
-[common/web/utils/ItemsCatalog.ts:52](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/utils/ItemsCatalog.ts#L52)
+[common/web/utils/ItemsCatalog.ts:52](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/utils/ItemsCatalog.ts#L52)
 
 ___
 
@@ -128,4 +128,4 @@ Registers a new item.
 
 #### Defined in
 
-[common/web/utils/ItemsCatalog.ts:34](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/utils/ItemsCatalog.ts#L34)
+[common/web/utils/ItemsCatalog.ts:34](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/utils/ItemsCatalog.ts#L34)

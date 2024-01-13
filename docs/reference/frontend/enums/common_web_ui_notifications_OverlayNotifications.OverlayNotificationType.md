@@ -17,7 +17,7 @@ The type of an overlay notification.
 
 #### Defined in
 
-[common/web/ui/notifications/OverlayNotifications.ts:13](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/notifications/OverlayNotifications.ts#L13)
+[common/web/ui/notifications/OverlayNotifications.ts:13](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/notifications/OverlayNotifications.ts#L13)
 
 ___
 
@@ -27,7 +27,7 @@ ___
 
 #### Defined in
 
-[common/web/ui/notifications/OverlayNotifications.ts:10](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/notifications/OverlayNotifications.ts#L10)
+[common/web/ui/notifications/OverlayNotifications.ts:10](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/notifications/OverlayNotifications.ts#L10)
 
 ___
 
@@ -37,7 +37,7 @@ ___
 
 #### Defined in
 
-[common/web/ui/notifications/OverlayNotifications.ts:11](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/notifications/OverlayNotifications.ts#L11)
+[common/web/ui/notifications/OverlayNotifications.ts:11](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/notifications/OverlayNotifications.ts#L11)
 
 ___
 
@@ -47,4 +47,4 @@ ___
 
 #### Defined in
 
-[common/web/ui/notifications/OverlayNotifications.ts:12](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/notifications/OverlayNotifications.ts#L12)
+[common/web/ui/notifications/OverlayNotifications.ts:12](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/notifications/OverlayNotifications.ts#L12)

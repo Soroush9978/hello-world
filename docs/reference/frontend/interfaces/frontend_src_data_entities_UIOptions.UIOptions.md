@@ -23,4 +23,4 @@ A list of all user-enabled optional UI snap-ins.
 
 #### Defined in
 
-[frontend/src/data/entities/UIOptions.ts:11](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/data/entities/UIOptions.ts#L11)
+[frontend/src/data/entities/UIOptions.ts:11](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/frontend/src/data/entities/UIOptions.ts#L11)

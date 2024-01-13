@@ -29,7 +29,7 @@ The client connection, based on ``socketio``.
 
 #### Defined in
 
-[common/web/core/messaging/networking/Client.ts:34](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/networking/Client.ts#L34)
+[common/web/core/messaging/networking/Client.ts:34](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/networking/Client.ts#L34)
 
 ## Properties
 
@@ -39,7 +39,7 @@ The client connection, based on ``socketio``.
 
 #### Defined in
 
-[common/web/core/messaging/networking/Client.ts:18](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/networking/Client.ts#L18)
+[common/web/core/messaging/networking/Client.ts:18](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/networking/Client.ts#L18)
 
 ___
 
@@ -49,7 +49,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/networking/Client.ts:19](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/networking/Client.ts#L19)
+[common/web/core/messaging/networking/Client.ts:19](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/networking/Client.ts#L19)
 
 ___
 
@@ -59,7 +59,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/networking/Client.ts:25](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/networking/Client.ts#L25)
+[common/web/core/messaging/networking/Client.ts:25](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/networking/Client.ts#L25)
 
 ___
 
@@ -69,7 +69,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/networking/Client.ts:22](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/networking/Client.ts#L22)
+[common/web/core/messaging/networking/Client.ts:22](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/networking/Client.ts#L22)
 
 ___
 
@@ -79,7 +79,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/networking/Client.ts:27](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/networking/Client.ts#L27)
+[common/web/core/messaging/networking/Client.ts:27](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/networking/Client.ts#L27)
 
 ___
 
@@ -89,7 +89,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/networking/Client.ts:24](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/networking/Client.ts#L24)
+[common/web/core/messaging/networking/Client.ts:24](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/networking/Client.ts#L24)
 
 ___
 
@@ -99,7 +99,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/networking/Client.ts:21](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/networking/Client.ts#L21)
+[common/web/core/messaging/networking/Client.ts:21](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/networking/Client.ts#L21)
 
 ## Methods
 
@@ -113,7 +113,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/networking/Client.ts:60](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/networking/Client.ts#L60)
+[common/web/core/messaging/networking/Client.ts:60](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/networking/Client.ts#L60)
 
 ___
 
@@ -129,7 +129,7 @@ Establishes the connection to the server.
 
 #### Defined in
 
-[common/web/core/messaging/networking/Client.ts:83](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/networking/Client.ts#L83)
+[common/web/core/messaging/networking/Client.ts:83](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/networking/Client.ts#L83)
 
 ___
 
@@ -143,7 +143,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/networking/Client.ts:47](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/networking/Client.ts#L47)
+[common/web/core/messaging/networking/Client.ts:47](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/networking/Client.ts#L47)
 
 ___
 
@@ -157,7 +157,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/networking/Client.ts:142](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/networking/Client.ts#L142)
+[common/web/core/messaging/networking/Client.ts:142](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/networking/Client.ts#L142)
 
 ___
 
@@ -171,7 +171,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/networking/Client.ts:118](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/networking/Client.ts#L118)
+[common/web/core/messaging/networking/Client.ts:118](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/networking/Client.ts#L118)
 
 ___
 
@@ -191,7 +191,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/networking/Client.ts:124](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/networking/Client.ts#L124)
+[common/web/core/messaging/networking/Client.ts:124](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/networking/Client.ts#L124)
 
 ___
 
@@ -205,7 +205,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/networking/Client.ts:130](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/networking/Client.ts#L130)
+[common/web/core/messaging/networking/Client.ts:130](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/networking/Client.ts#L130)
 
 ___
 
@@ -226,7 +226,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/networking/Client.ts:136](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/networking/Client.ts#L136)
+[common/web/core/messaging/networking/Client.ts:136](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/networking/Client.ts#L136)
 
 ___
 
@@ -242,7 +242,7 @@ Periodically performs certain tasks.
 
 #### Defined in
 
-[common/web/core/messaging/networking/Client.ts:77](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/networking/Client.ts#L77)
+[common/web/core/messaging/networking/Client.ts:77](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/networking/Client.ts#L77)
 
 ___
 
@@ -258,7 +258,7 @@ Automatically connects to a server.
 
 #### Defined in
 
-[common/web/core/messaging/networking/Client.ts:70](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/networking/Client.ts#L70)
+[common/web/core/messaging/networking/Client.ts:70](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/networking/Client.ts#L70)
 
 ___
 
@@ -282,7 +282,7 @@ For this, the message will be encoded as *JSON* first.
 
 #### Defined in
 
-[common/web/core/messaging/networking/Client.ts:111](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/networking/Client.ts#L111)
+[common/web/core/messaging/networking/Client.ts:111](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/networking/Client.ts#L111)
 
 ___
 
@@ -304,4 +304,4 @@ Sets a handler that gets called when a message arrives.
 
 #### Defined in
 
-[common/web/core/messaging/networking/Client.ts:100](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/networking/Client.ts#L100)
+[common/web/core/messaging/networking/Client.ts:100](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/networking/Client.ts#L100)

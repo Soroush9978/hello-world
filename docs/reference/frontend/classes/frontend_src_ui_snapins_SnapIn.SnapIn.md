@@ -38,7 +38,7 @@ A snap-in represents a certain feature aspect of a project that integrates itsel
 
 #### Defined in
 
-[frontend/src/ui/snapins/SnapIn.ts:50](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/snapins/SnapIn.ts#L50)
+[frontend/src/ui/snapins/SnapIn.ts:50](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/frontend/src/ui/snapins/SnapIn.ts#L50)
 
 ## Properties
 
@@ -48,7 +48,7 @@ A snap-in represents a certain feature aspect of a project that integrates itsel
 
 #### Defined in
 
-[frontend/src/ui/snapins/SnapIn.ts:44](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/snapins/SnapIn.ts#L44)
+[frontend/src/ui/snapins/SnapIn.ts:44](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/frontend/src/ui/snapins/SnapIn.ts#L44)
 
 ___
 
@@ -58,7 +58,7 @@ ___
 
 #### Defined in
 
-[frontend/src/ui/snapins/SnapIn.ts:43](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/snapins/SnapIn.ts#L43)
+[frontend/src/ui/snapins/SnapIn.ts:43](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/frontend/src/ui/snapins/SnapIn.ts#L43)
 
 ## Accessors
 
@@ -74,7 +74,7 @@ The snap-in options.
 
 #### Defined in
 
-[frontend/src/ui/snapins/SnapIn.ts:65](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/snapins/SnapIn.ts#L65)
+[frontend/src/ui/snapins/SnapIn.ts:65](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/frontend/src/ui/snapins/SnapIn.ts#L65)
 
 ___
 
@@ -90,7 +90,7 @@ The ID of the snap-in.
 
 #### Defined in
 
-[frontend/src/ui/snapins/SnapIn.ts:58](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/snapins/SnapIn.ts#L58)
+[frontend/src/ui/snapins/SnapIn.ts:58](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/frontend/src/ui/snapins/SnapIn.ts#L58)
 
 ## Methods
 
@@ -106,7 +106,7 @@ Whether this snap-in has a tab panel.
 
 #### Defined in
 
-[frontend/src/ui/snapins/SnapIn.ts:79](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/snapins/SnapIn.ts#L79)
+[frontend/src/ui/snapins/SnapIn.ts:79](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/frontend/src/ui/snapins/SnapIn.ts#L79)
 
 ___
 
@@ -122,4 +122,4 @@ Whether this snap-in is optional.
 
 #### Defined in
 
-[frontend/src/ui/snapins/SnapIn.ts:72](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/snapins/SnapIn.ts#L72)
+[frontend/src/ui/snapins/SnapIn.ts:72](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/frontend/src/ui/snapins/SnapIn.ts#L72)

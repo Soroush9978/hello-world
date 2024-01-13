@@ -17,7 +17,7 @@ The data used by the ``EditProjectDialog``.
 
 #### Defined in
 
-[frontend/src/ui/dialogs/EditProjectDialog.ts:15](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/dialogs/EditProjectDialog.ts#L15)
+[frontend/src/ui/dialogs/EditProjectDialog.ts:15](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/frontend/src/ui/dialogs/EditProjectDialog.ts#L15)
 
 ___
 
@@ -27,7 +27,7 @@ ___
 
 #### Defined in
 
-[frontend/src/ui/dialogs/EditProjectDialog.ts:16](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/dialogs/EditProjectDialog.ts#L16)
+[frontend/src/ui/dialogs/EditProjectDialog.ts:16](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/frontend/src/ui/dialogs/EditProjectDialog.ts#L16)
 
 ___
 
@@ -37,4 +37,4 @@ ___
 
 #### Defined in
 
-[frontend/src/ui/dialogs/EditProjectDialog.ts:14](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/dialogs/EditProjectDialog.ts#L14)
+[frontend/src/ui/dialogs/EditProjectDialog.ts:14](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/frontend/src/ui/dialogs/EditProjectDialog.ts#L14)

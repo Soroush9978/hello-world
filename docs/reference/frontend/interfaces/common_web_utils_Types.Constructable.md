@@ -33,4 +33,4 @@ An interface describing constructable objects.
 
 #### Defined in
 
-[common/web/utils/Types.ts:5](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/utils/Types.ts#L5)
+[common/web/utils/Types.ts:5](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/utils/Types.ts#L5)

@@ -20,4 +20,4 @@ Introduce a global type for Vue components.
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:44](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L44)
+[common/web/component/WebComponent.ts:44](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/component/WebComponent.ts#L44)

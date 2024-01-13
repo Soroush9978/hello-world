@@ -17,7 +17,7 @@ Enum telling the direction (INcoming or OUTgoing) of a message.
 
 #### Defined in
 
-[common/web/core/messaging/networking/NetworkRouter.ts:9](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/networking/NetworkRouter.ts#L9)
+[common/web/core/messaging/networking/NetworkRouter.ts:9](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/networking/NetworkRouter.ts#L9)
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/networking/NetworkRouter.ts:10](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/networking/NetworkRouter.ts#L10)
+[common/web/core/messaging/networking/NetworkRouter.ts:10](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/networking/NetworkRouter.ts#L10)

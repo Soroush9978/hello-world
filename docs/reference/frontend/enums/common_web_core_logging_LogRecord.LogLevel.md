@@ -15,7 +15,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[common/web/core/logging/LogRecord.ts:2](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/LogRecord.ts#L2)
+[common/web/core/logging/LogRecord.ts:2](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/logging/LogRecord.ts#L2)
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 #### Defined in
 
-[common/web/core/logging/LogRecord.ts:5](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/LogRecord.ts#L5)
+[common/web/core/logging/LogRecord.ts:5](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/logging/LogRecord.ts#L5)
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 #### Defined in
 
-[common/web/core/logging/LogRecord.ts:3](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/LogRecord.ts#L3)
+[common/web/core/logging/LogRecord.ts:3](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/logging/LogRecord.ts#L3)
 
 ___
 
@@ -45,4 +45,4 @@ ___
 
 #### Defined in
 
-[common/web/core/logging/LogRecord.ts:4](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/LogRecord.ts#L4)
+[common/web/core/logging/LogRecord.ts:4](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/logging/LogRecord.ts#L4)

@@ -25,7 +25,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[common/web/core/logging/Logging.ts:66](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/Logging.ts#L66)
+[common/web/core/logging/Logging.ts:66](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/logging/Logging.ts#L66)
 
 ## Functions
 
@@ -49,7 +49,7 @@ Logs a debugging message.
 
 #### Defined in
 
-[common/web/core/logging/Logging.ts:22](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/Logging.ts#L22)
+[common/web/core/logging/Logging.ts:22](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/logging/Logging.ts#L22)
 
 ___
 
@@ -73,7 +73,7 @@ Logs an error message.
 
 #### Defined in
 
-[common/web/core/logging/Logging.ts:55](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/Logging.ts#L55)
+[common/web/core/logging/Logging.ts:55](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/logging/Logging.ts#L55)
 
 ___
 
@@ -89,7 +89,7 @@ Retrieves the global default logger.
 
 #### Defined in
 
-[common/web/core/logging/Logging.ts:62](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/Logging.ts#L62)
+[common/web/core/logging/Logging.ts:62](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/logging/Logging.ts#L62)
 
 ___
 
@@ -113,7 +113,7 @@ Logs an info message.
 
 #### Defined in
 
-[common/web/core/logging/Logging.ts:33](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/Logging.ts#L33)
+[common/web/core/logging/Logging.ts:33](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/logging/Logging.ts#L33)
 
 ___
 
@@ -135,7 +135,7 @@ Sets the default log level.
 
 #### Defined in
 
-[common/web/core/logging/Logging.ts:11](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/Logging.ts#L11)
+[common/web/core/logging/Logging.ts:11](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/logging/Logging.ts#L11)
 
 ___
 
@@ -159,4 +159,4 @@ Logs a warning message.
 
 #### Defined in
 
-[common/web/core/logging/Logging.ts:44](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/Logging.ts#L44)
+[common/web/core/logging/Logging.ts:44](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/logging/Logging.ts#L44)

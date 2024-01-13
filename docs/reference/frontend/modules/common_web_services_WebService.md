@@ -28,4 +28,4 @@ Creates the web service that reacts to fundamental web ongoings.
 
 #### Defined in
 
-[common/web/services/WebService.ts:14](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/services/WebService.ts#L14)
+[common/web/services/WebService.ts:14](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/services/WebService.ts#L14)

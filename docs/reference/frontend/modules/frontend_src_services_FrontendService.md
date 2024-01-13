@@ -28,4 +28,4 @@ Creates the main frontend service.
 
 #### Defined in
 
-[frontend/src/services/FrontendService.ts:12](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/services/FrontendService.ts#L12)
+[frontend/src/services/FrontendService.ts:12](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/frontend/src/services/FrontendService.ts#L12)

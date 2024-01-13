@@ -27,7 +27,7 @@ A helper class to display notifications using PrimeVue's Toast.
 
 #### Defined in
 
-[common/web/ui/notifications/OverlayNotifications.ts:26](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/notifications/OverlayNotifications.ts#L26)
+[common/web/ui/notifications/OverlayNotifications.ts:26](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/notifications/OverlayNotifications.ts#L26)
 
 ## Properties
 
@@ -37,7 +37,7 @@ A helper class to display notifications using PrimeVue's Toast.
 
 #### Defined in
 
-[common/web/ui/notifications/OverlayNotifications.ts:21](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/notifications/OverlayNotifications.ts#L21)
+[common/web/ui/notifications/OverlayNotifications.ts:21](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/notifications/OverlayNotifications.ts#L21)
 
 ___
 
@@ -47,7 +47,7 @@ ___
 
 #### Defined in
 
-[common/web/ui/notifications/OverlayNotifications.ts:20](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/notifications/OverlayNotifications.ts#L20)
+[common/web/ui/notifications/OverlayNotifications.ts:20](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/notifications/OverlayNotifications.ts#L20)
 
 ## Methods
 
@@ -71,7 +71,7 @@ Display an error notification.
 
 #### Defined in
 
-[common/web/ui/notifications/OverlayNotifications.ts:72](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/notifications/OverlayNotifications.ts#L72)
+[common/web/ui/notifications/OverlayNotifications.ts:72](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/notifications/OverlayNotifications.ts#L72)
 
 ___
 
@@ -95,7 +95,7 @@ Display an info notification.
 
 #### Defined in
 
-[common/web/ui/notifications/OverlayNotifications.ts:39](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/notifications/OverlayNotifications.ts#L39)
+[common/web/ui/notifications/OverlayNotifications.ts:39](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/notifications/OverlayNotifications.ts#L39)
 
 ___
 
@@ -120,7 +120,7 @@ Display a notification.
 
 #### Defined in
 
-[common/web/ui/notifications/OverlayNotifications.ts:84](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/notifications/OverlayNotifications.ts#L84)
+[common/web/ui/notifications/OverlayNotifications.ts:84](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/notifications/OverlayNotifications.ts#L84)
 
 ___
 
@@ -144,7 +144,7 @@ Display a success notification.
 
 #### Defined in
 
-[common/web/ui/notifications/OverlayNotifications.ts:50](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/notifications/OverlayNotifications.ts#L50)
+[common/web/ui/notifications/OverlayNotifications.ts:50](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/notifications/OverlayNotifications.ts#L50)
 
 ___
 
@@ -168,4 +168,4 @@ Display a warning notification.
 
 #### Defined in
 
-[common/web/ui/notifications/OverlayNotifications.ts:61](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/notifications/OverlayNotifications.ts#L61)
+[common/web/ui/notifications/OverlayNotifications.ts:61](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/notifications/OverlayNotifications.ts#L61)

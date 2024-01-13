@@ -30,7 +30,7 @@ validity. Afterwards, the router decides through which channels (local, client) 
 
 #### Defined in
 
-[common/web/core/messaging/networking/NetworkRouter.ts:25](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/networking/NetworkRouter.ts#L25)
+[common/web/core/messaging/networking/NetworkRouter.ts:25](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/networking/NetworkRouter.ts#L25)
 
 ## Properties
 
@@ -40,7 +40,7 @@ validity. Afterwards, the router decides through which channels (local, client) 
 
 #### Defined in
 
-[common/web/core/messaging/networking/NetworkRouter.ts:20](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/networking/NetworkRouter.ts#L20)
+[common/web/core/messaging/networking/NetworkRouter.ts:20](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/networking/NetworkRouter.ts#L20)
 
 ## Methods
 
@@ -66,7 +66,7 @@ Whether client routing should happen.
 
 #### Defined in
 
-[common/web/core/messaging/networking/NetworkRouter.ts:75](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/networking/NetworkRouter.ts#L75)
+[common/web/core/messaging/networking/NetworkRouter.ts:75](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/networking/NetworkRouter.ts#L75)
 
 ___
 
@@ -92,7 +92,7 @@ Whether local routing should happen.
 
 #### Defined in
 
-[common/web/core/messaging/networking/NetworkRouter.ts:54](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/networking/NetworkRouter.ts#L54)
+[common/web/core/messaging/networking/NetworkRouter.ts:54](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/networking/NetworkRouter.ts#L54)
 
 ___
 
@@ -113,7 +113,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/networking/NetworkRouter.ts:85](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/networking/NetworkRouter.ts#L85)
+[common/web/core/messaging/networking/NetworkRouter.ts:85](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/networking/NetworkRouter.ts#L85)
 
 ___
 
@@ -134,7 +134,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/networking/NetworkRouter.ts:80](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/networking/NetworkRouter.ts#L80)
+[common/web/core/messaging/networking/NetworkRouter.ts:80](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/networking/NetworkRouter.ts#L80)
 
 ___
 
@@ -161,4 +161,4 @@ Error - In case the message is not valid to enter the network engine.
 
 #### Defined in
 
-[common/web/core/messaging/networking/NetworkRouter.ts:37](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/networking/NetworkRouter.ts#L37)
+[common/web/core/messaging/networking/NetworkRouter.ts:37](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/networking/NetworkRouter.ts#L37)

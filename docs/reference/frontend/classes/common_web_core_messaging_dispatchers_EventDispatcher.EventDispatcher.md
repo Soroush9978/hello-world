@@ -41,7 +41,7 @@ Message dispatcher specific to ``Event``.
 
 #### Defined in
 
-[common/web/core/messaging/dispatchers/MessageDispatcher.ts:14](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/dispatchers/MessageDispatcher.ts#L14)
+[common/web/core/messaging/dispatchers/MessageDispatcher.ts:14](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/dispatchers/MessageDispatcher.ts#L14)
 
 ## Methods
 
@@ -67,7 +67,7 @@ Message dispatcher specific to ``Event``.
 
 #### Defined in
 
-[common/web/core/messaging/dispatchers/MessageDispatcher.ts:75](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/dispatchers/MessageDispatcher.ts#L75)
+[common/web/core/messaging/dispatchers/MessageDispatcher.ts:75](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/dispatchers/MessageDispatcher.ts#L75)
 
 ___
 
@@ -109,7 +109,7 @@ Error - If the handler requires a different message type.
 
 #### Defined in
 
-[common/web/core/messaging/dispatchers/MessageDispatcher.ts:46](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/dispatchers/MessageDispatcher.ts#L46)
+[common/web/core/messaging/dispatchers/MessageDispatcher.ts:46](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/dispatchers/MessageDispatcher.ts#L46)
 
 ___
 
@@ -138,7 +138,7 @@ This method is called after any service-registered message handler have been inv
 
 #### Defined in
 
-[common/web/core/messaging/dispatchers/MessageDispatcher.ts:72](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/dispatchers/MessageDispatcher.ts#L72)
+[common/web/core/messaging/dispatchers/MessageDispatcher.ts:72](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/dispatchers/MessageDispatcher.ts#L72)
 
 ___
 
@@ -177,7 +177,7 @@ Error - If the meta information type is invalid.
 
 #### Defined in
 
-[common/web/core/messaging/dispatchers/EventDispatcher.ts:20](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/dispatchers/EventDispatcher.ts#L20)
+[common/web/core/messaging/dispatchers/EventDispatcher.ts:20](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/dispatchers/EventDispatcher.ts#L20)
 
 ___
 
@@ -197,4 +197,4 @@ Called to perform periodic tasks.
 
 #### Defined in
 
-[common/web/core/messaging/dispatchers/MessageDispatcher.ts:19](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/dispatchers/MessageDispatcher.ts#L19)
+[common/web/core/messaging/dispatchers/MessageDispatcher.ts:19](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/dispatchers/MessageDispatcher.ts#L19)

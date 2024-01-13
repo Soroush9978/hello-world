@@ -19,7 +19,7 @@ The icon of the Accept button
 
 #### Defined in
 
-[common/web/ui/dialogs/ExtendedDialog.ts:20](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/dialogs/ExtendedDialog.ts#L20)
+[common/web/ui/dialogs/ExtendedDialog.ts:20](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/dialogs/ExtendedDialog.ts#L20)
 
 ___
 
@@ -31,7 +31,7 @@ The label of the Accept button
 
 #### Defined in
 
-[common/web/ui/dialogs/ExtendedDialog.ts:18](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/dialogs/ExtendedDialog.ts#L18)
+[common/web/ui/dialogs/ExtendedDialog.ts:18](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/dialogs/ExtendedDialog.ts#L18)
 
 ___
 
@@ -43,7 +43,7 @@ Whether the dialog has an Accept button.
 
 #### Defined in
 
-[common/web/ui/dialogs/ExtendedDialog.ts:16](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/dialogs/ExtendedDialog.ts#L16)
+[common/web/ui/dialogs/ExtendedDialog.ts:16](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/dialogs/ExtendedDialog.ts#L16)
 
 ___
 
@@ -55,7 +55,7 @@ Whether the dialog has a Reject button.
 
 #### Defined in
 
-[common/web/ui/dialogs/ExtendedDialog.ts:23](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/dialogs/ExtendedDialog.ts#L23)
+[common/web/ui/dialogs/ExtendedDialog.ts:23](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/dialogs/ExtendedDialog.ts#L23)
 
 ___
 
@@ -67,7 +67,7 @@ The icon of the Reject button
 
 #### Defined in
 
-[common/web/ui/dialogs/ExtendedDialog.ts:27](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/dialogs/ExtendedDialog.ts#L27)
+[common/web/ui/dialogs/ExtendedDialog.ts:27](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/dialogs/ExtendedDialog.ts#L27)
 
 ___
 
@@ -79,4 +79,4 @@ The label of the Reject button
 
 #### Defined in
 
-[common/web/ui/dialogs/ExtendedDialog.ts:25](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/dialogs/ExtendedDialog.ts#L25)
+[common/web/ui/dialogs/ExtendedDialog.ts:25](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/dialogs/ExtendedDialog.ts#L25)

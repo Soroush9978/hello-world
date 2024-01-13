@@ -29,4 +29,4 @@ The timeout in seconds for commands which are usually executed quickly (value ty
 
 #### Defined in
 
-[frontend/src/settings/FrontendSettingIDs.ts:9](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/settings/FrontendSettingIDs.ts#L9)
+[frontend/src/settings/FrontendSettingIDs.ts:9](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/frontend/src/settings/FrontendSettingIDs.ts#L9)

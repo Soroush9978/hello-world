@@ -28,4 +28,4 @@ Defines the general interface for the ``MessageBus``.
 
 #### Defined in
 
-[common/web/core/messaging/MessageBusProtocol.ts:8](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/MessageBusProtocol.ts#L8)
+[common/web/core/messaging/MessageBusProtocol.ts:8](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/core/messaging/MessageBusProtocol.ts#L8)

@@ -34,7 +34,7 @@ Class for overall user interface handling.
 
 #### Defined in
 
-[common/web/ui/UserInterface.ts:18](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/UserInterface.ts#L18)
+[common/web/ui/UserInterface.ts:18](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/UserInterface.ts#L18)
 
 ## Properties
 
@@ -44,7 +44,7 @@ Class for overall user interface handling.
 
 #### Defined in
 
-[common/web/ui/UserInterface.ts:12](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/UserInterface.ts#L12)
+[common/web/ui/UserInterface.ts:12](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/UserInterface.ts#L12)
 
 ## Accessors
 
@@ -60,7 +60,7 @@ The main view.
 
 #### Defined in
 
-[common/web/ui/UserInterface.ts:43](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/UserInterface.ts#L43)
+[common/web/ui/UserInterface.ts:43](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/UserInterface.ts#L43)
 
 ## Methods
 
@@ -78,7 +78,7 @@ Supply additional options for the main route.
 
 #### Defined in
 
-[common/web/ui/UserInterface.ts:27](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/UserInterface.ts#L27)
+[common/web/ui/UserInterface.ts:27](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/UserInterface.ts#L27)
 
 ___
 
@@ -102,4 +102,4 @@ Creates additional sub-views of the main view.
 
 #### Defined in
 
-[common/web/ui/UserInterface.ts:36](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/UserInterface.ts#L36)
+[common/web/ui/UserInterface.ts:36](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/ui/UserInterface.ts#L36)

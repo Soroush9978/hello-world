@@ -31,7 +31,7 @@ The main frontend component class.
 
 #### Defined in
 
-[frontend/src/component/FrontendComponent.ts:24](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/component/FrontendComponent.ts#L24)
+[frontend/src/component/FrontendComponent.ts:24](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/frontend/src/component/FrontendComponent.ts#L24)
 
 ## Properties
 
@@ -41,7 +41,7 @@ The main frontend component class.
 
 #### Defined in
 
-[frontend/src/component/FrontendComponent.ts:21](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/component/FrontendComponent.ts#L21)
+[frontend/src/component/FrontendComponent.ts:21](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/frontend/src/component/FrontendComponent.ts#L21)
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:61](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L61)
+[common/web/component/WebComponent.ts:61](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/component/WebComponent.ts#L61)
 
 ___
 
@@ -69,7 +69,7 @@ ___
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:59](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L59)
+[common/web/component/WebComponent.ts:59](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/component/WebComponent.ts#L59)
 
 ___
 
@@ -79,7 +79,7 @@ ___
 
 #### Defined in
 
-[frontend/src/component/FrontendComponent.ts:20](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/component/FrontendComponent.ts#L20)
+[frontend/src/component/FrontendComponent.ts:20](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/frontend/src/component/FrontendComponent.ts#L20)
 
 ___
 
@@ -89,7 +89,7 @@ ___
 
 #### Defined in
 
-[frontend/src/component/FrontendComponent.ts:22](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/component/FrontendComponent.ts#L22)
+[frontend/src/component/FrontendComponent.ts:22](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/frontend/src/component/FrontendComponent.ts#L22)
 
 ___
 
@@ -103,7 +103,7 @@ ___
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:62](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L62)
+[common/web/component/WebComponent.ts:62](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/component/WebComponent.ts#L62)
 
 ___
 
@@ -117,7 +117,7 @@ ___
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:64](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L64)
+[common/web/component/WebComponent.ts:64](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/component/WebComponent.ts#L64)
 
 ___
 
@@ -131,7 +131,7 @@ ___
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:65](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L65)
+[common/web/component/WebComponent.ts:65](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/component/WebComponent.ts#L65)
 
 ## Accessors
 
@@ -147,7 +147,7 @@ The connectors service.
 
 #### Defined in
 
-[frontend/src/component/FrontendComponent.ts:59](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/component/FrontendComponent.ts#L59)
+[frontend/src/component/FrontendComponent.ts:59](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/frontend/src/component/FrontendComponent.ts#L59)
 
 ___
 
@@ -167,7 +167,7 @@ WebComponent.data
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:212](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L212)
+[common/web/component/WebComponent.ts:212](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/component/WebComponent.ts#L212)
 
 ___
 
@@ -183,7 +183,7 @@ The main frontend service.
 
 #### Defined in
 
-[frontend/src/component/FrontendComponent.ts:49](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/component/FrontendComponent.ts#L49)
+[frontend/src/component/FrontendComponent.ts:49](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/frontend/src/component/FrontendComponent.ts#L49)
 
 ___
 
@@ -199,7 +199,7 @@ The projects service.
 
 #### Defined in
 
-[frontend/src/component/FrontendComponent.ts:69](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/component/FrontendComponent.ts#L69)
+[frontend/src/component/FrontendComponent.ts:69](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/frontend/src/component/FrontendComponent.ts#L69)
 
 ___
 
@@ -219,7 +219,7 @@ WebComponent.router
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:219](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L219)
+[common/web/component/WebComponent.ts:219](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/component/WebComponent.ts#L219)
 
 ___
 
@@ -239,7 +239,7 @@ WebComponent.userInterface
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:226](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L226)
+[common/web/component/WebComponent.ts:226](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/component/WebComponent.ts#L226)
 
 ___
 
@@ -259,7 +259,7 @@ WebComponent.vue
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:233](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L233)
+[common/web/component/WebComponent.ts:233](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/component/WebComponent.ts#L233)
 
 ___
 
@@ -283,7 +283,7 @@ WebComponent.instance
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:255](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L255)
+[common/web/component/WebComponent.ts:255](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/component/WebComponent.ts#L255)
 
 ## Methods
 
@@ -297,7 +297,7 @@ WebComponent.instance
 
 #### Defined in
 
-[frontend/src/component/FrontendComponent.ts:42](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/component/FrontendComponent.ts#L42)
+[frontend/src/component/FrontendComponent.ts:42](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/frontend/src/component/FrontendComponent.ts#L42)
 
 ___
 
@@ -319,7 +319,7 @@ Sets up routes for the Vue router.
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:157](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L157)
+[common/web/component/WebComponent.ts:157](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/component/WebComponent.ts#L157)
 
 ___
 
@@ -353,7 +353,7 @@ Creates and registers a new service.
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:198](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L198)
+[common/web/component/WebComponent.ts:198](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/component/WebComponent.ts#L198)
 
 ___
 
@@ -382,7 +382,7 @@ Notes:
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:169](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L169)
+[common/web/component/WebComponent.ts:169](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/component/WebComponent.ts#L169)
 
 ___
 
@@ -405,7 +405,7 @@ Notes:
 
 #### Defined in
 
-[frontend/src/component/FrontendComponent.ts:30](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/component/FrontendComponent.ts#L30)
+[frontend/src/component/FrontendComponent.ts:30](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/frontend/src/component/FrontendComponent.ts#L30)
 
 ___
 
@@ -425,7 +425,7 @@ ___
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:272](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L272)
+[common/web/component/WebComponent.ts:272](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/component/WebComponent.ts#L272)
 
 ___
 
@@ -445,7 +445,7 @@ Error - If no instance has been created.
 
 #### Defined in
 
-[frontend/src/component/FrontendComponent.ts:81](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/component/FrontendComponent.ts#L81)
+[frontend/src/component/FrontendComponent.ts:81](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/frontend/src/component/FrontendComponent.ts#L81)
 
 ___
 
@@ -475,4 +475,4 @@ Error - If no instance has been created.
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:242](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L242)
+[common/web/component/WebComponent.ts:242](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/common/web/component/WebComponent.ts#L242)

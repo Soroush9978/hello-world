@@ -24,7 +24,7 @@ The snap-in identifier type.
 
 #### Defined in
 
-[frontend/src/ui/snapins/SnapIn.ts:6](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/snapins/SnapIn.ts#L6)
+[frontend/src/ui/snapins/SnapIn.ts:6](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/frontend/src/ui/snapins/SnapIn.ts#L6)
 
 ___
 
@@ -44,4 +44,4 @@ Dynamic panel Vue component loader.
 
 #### Defined in
 
-[frontend/src/ui/snapins/SnapIn.ts:11](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/snapins/SnapIn.ts#L11)
+[frontend/src/ui/snapins/SnapIn.ts:11](https://github.com/Soroush9978/rds-ng/blob/165bdc6/src/frontend/src/ui/snapins/SnapIn.ts#L11)
