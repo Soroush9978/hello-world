@@ -41,7 +41,7 @@ An optional connector description.
 
 #### Defined in
 
-[common/web/data/entities/Connector.ts:21](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/data/entities/Connector.ts#L21)
+[common/web/data/entities/Connector.ts:21](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/data/entities/Connector.ts#L21)
 
 ## Properties
 
@@ -51,7 +51,7 @@ An optional connector description.
 
 #### Defined in
 
-[common/web/data/entities/Connector.ts:16](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/data/entities/Connector.ts#L16)
+[common/web/data/entities/Connector.ts:16](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/data/entities/Connector.ts#L16)
 
 ___
 
@@ -61,7 +61,7 @@ ___
 
 #### Defined in
 
-[common/web/data/entities/Connector.ts:19](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/data/entities/Connector.ts#L19)
+[common/web/data/entities/Connector.ts:19](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/data/entities/Connector.ts#L19)
 
 ___
 
@@ -71,4 +71,4 @@ ___
 
 #### Defined in
 
-[common/web/data/entities/Connector.ts:18](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/data/entities/Connector.ts#L18)
+[common/web/data/entities/Connector.ts:18](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/data/entities/Connector.ts#L18)

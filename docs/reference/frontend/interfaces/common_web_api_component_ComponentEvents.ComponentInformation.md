@@ -17,7 +17,7 @@ Layout of component information objects.
 
 #### Defined in
 
-[common/web/api/component/ComponentEvents.ts:14](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/api/component/ComponentEvents.ts#L14)
+[common/web/api/component/ComponentEvents.ts:14](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/api/component/ComponentEvents.ts#L14)
 
 ___
 
@@ -27,7 +27,7 @@ ___
 
 #### Defined in
 
-[common/web/api/component/ComponentEvents.ts:15](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/api/component/ComponentEvents.ts#L15)
+[common/web/api/component/ComponentEvents.ts:15](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/api/component/ComponentEvents.ts#L15)
 
 ___
 
@@ -37,4 +37,4 @@ ___
 
 #### Defined in
 
-[common/web/api/component/ComponentEvents.ts:16](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/api/component/ComponentEvents.ts#L16)
+[common/web/api/component/ComponentEvents.ts:16](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/api/component/ComponentEvents.ts#L16)

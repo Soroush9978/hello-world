@@ -22,7 +22,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[common/web/core/messaging/Message.ts:10](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/Message.ts#L10)
+[common/web/core/messaging/Message.ts:10](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/Message.ts#L10)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/Message.ts:11](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/Message.ts#L11)
+[common/web/core/messaging/Message.ts:11](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/Message.ts#L11)
 
 ___
 
@@ -42,4 +42,4 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/Message.ts:12](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/Message.ts#L12)
+[common/web/core/messaging/Message.ts:12](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/Message.ts#L12)

@@ -36,7 +36,7 @@ The data management plan feature.
 
 #### Defined in
 
-[common/web/data/entities/features/ProjectFeatures.ts:20](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/data/entities/features/ProjectFeatures.ts#L20)
+[common/web/data/entities/features/ProjectFeatures.ts:20](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/data/entities/features/ProjectFeatures.ts#L20)
 
 ## Properties
 
@@ -46,7 +46,7 @@ The data management plan feature.
 
 #### Defined in
 
-[common/web/data/entities/features/ProjectFeatures.ts:18](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/data/entities/features/ProjectFeatures.ts#L18)
+[common/web/data/entities/features/ProjectFeatures.ts:18](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/data/entities/features/ProjectFeatures.ts#L18)
 
 ___
 
@@ -56,4 +56,4 @@ ___
 
 #### Defined in
 
-[common/web/data/entities/features/ProjectFeatures.ts:15](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/data/entities/features/ProjectFeatures.ts#L15)
+[common/web/data/entities/features/ProjectFeatures.ts:15](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/data/entities/features/ProjectFeatures.ts#L15)

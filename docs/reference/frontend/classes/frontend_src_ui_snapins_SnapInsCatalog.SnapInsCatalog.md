@@ -49,7 +49,7 @@ ItemsCatalog.items
 
 #### Defined in
 
-[common/web/utils/ItemsCatalog.ts:60](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/utils/ItemsCatalog.ts#L60)
+[common/web/utils/ItemsCatalog.ts:60](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/utils/ItemsCatalog.ts#L60)
 
 ## Methods
 
@@ -65,7 +65,7 @@ Retrieve all optional snap-ins.
 
 #### Defined in
 
-[frontend/src/ui/snapins/SnapInsCatalog.ts:24](https://github.com/Soroush9978/rds-ng/blob/3365237/src/frontend/src/ui/snapins/SnapInsCatalog.ts#L24)
+[frontend/src/ui/snapins/SnapInsCatalog.ts:24](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/snapins/SnapInsCatalog.ts#L24)
 
 ___
 
@@ -81,7 +81,7 @@ Retrieve all snap-ins with a tab panel.
 
 #### Defined in
 
-[frontend/src/ui/snapins/SnapInsCatalog.ts:31](https://github.com/Soroush9978/rds-ng/blob/3365237/src/frontend/src/ui/snapins/SnapInsCatalog.ts#L31)
+[frontend/src/ui/snapins/SnapInsCatalog.ts:31](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/snapins/SnapInsCatalog.ts#L31)
 
 ___
 
@@ -104,7 +104,7 @@ Notes:
 
 #### Defined in
 
-[common/web/utils/ItemsCatalog.ts:18](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/utils/ItemsCatalog.ts#L18)
+[common/web/utils/ItemsCatalog.ts:18](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/utils/ItemsCatalog.ts#L18)
 
 ___
 
@@ -126,7 +126,7 @@ Select certain snap-ins that satisfy the given predicate.
 
 #### Defined in
 
-[frontend/src/ui/snapins/SnapInsCatalog.ts:17](https://github.com/Soroush9978/rds-ng/blob/3365237/src/frontend/src/ui/snapins/SnapInsCatalog.ts#L17)
+[frontend/src/ui/snapins/SnapInsCatalog.ts:17](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/snapins/SnapInsCatalog.ts#L17)
 
 ___
 
@@ -154,7 +154,7 @@ Finds the item associated with the given ``name``.
 
 #### Defined in
 
-[common/web/utils/ItemsCatalog.ts:52](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/utils/ItemsCatalog.ts#L52)
+[common/web/utils/ItemsCatalog.ts:52](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/utils/ItemsCatalog.ts#L52)
 
 ___
 
@@ -181,4 +181,4 @@ Registers a new item.
 
 #### Defined in
 
-[common/web/utils/ItemsCatalog.ts:34](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/utils/ItemsCatalog.ts#L34)
+[common/web/utils/ItemsCatalog.ts:34](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/utils/ItemsCatalog.ts#L34)

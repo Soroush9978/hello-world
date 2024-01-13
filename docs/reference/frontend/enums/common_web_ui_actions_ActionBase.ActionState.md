@@ -17,7 +17,7 @@ The state in which an action can be.
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:9](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/actions/ActionBase.ts#L9)
+[common/web/ui/actions/ActionBase.ts:9](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L9)
 
 ___
 
@@ -27,7 +27,7 @@ ___
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:8](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/actions/ActionBase.ts#L8)
+[common/web/ui/actions/ActionBase.ts:8](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L8)
 
 ___
 
@@ -37,7 +37,7 @@ ___
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:10](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/actions/ActionBase.ts#L10)
+[common/web/ui/actions/ActionBase.ts:10](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L10)
 
 ___
 
@@ -47,4 +47,4 @@ ___
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:7](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/actions/ActionBase.ts#L7)
+[common/web/ui/actions/ActionBase.ts:7](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L7)

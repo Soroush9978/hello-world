@@ -30,7 +30,7 @@ This class stores a reference to the global message bus and offers methods to ea
 
 #### Defined in
 
-[common/web/core/messaging/composers/MessageBuilder.ts:26](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/composers/MessageBuilder.ts#L26)
+[common/web/core/messaging/composers/MessageBuilder.ts:26](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/composers/MessageBuilder.ts#L26)
 
 ## Properties
 
@@ -40,7 +40,7 @@ This class stores a reference to the global message bus and offers methods to ea
 
 #### Defined in
 
-[common/web/core/messaging/composers/MessageBuilder.ts:20](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/composers/MessageBuilder.ts#L20)
+[common/web/core/messaging/composers/MessageBuilder.ts:20](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/composers/MessageBuilder.ts#L20)
 
 ___
 
@@ -50,7 +50,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/composers/MessageBuilder.ts:18](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/composers/MessageBuilder.ts#L18)
+[common/web/core/messaging/composers/MessageBuilder.ts:18](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/composers/MessageBuilder.ts#L18)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/composers/MessageBuilder.ts:17](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/composers/MessageBuilder.ts#L17)
+[common/web/core/messaging/composers/MessageBuilder.ts:17](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/composers/MessageBuilder.ts#L17)
 
 ## Methods
 
@@ -96,7 +96,7 @@ Error - If an unknown value was provided in ``values`.
 
 #### Defined in
 
-[common/web/core/messaging/composers/MessageBuilder.ts:46](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/composers/MessageBuilder.ts#L46)
+[common/web/core/messaging/composers/MessageBuilder.ts:46](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/composers/MessageBuilder.ts#L46)
 
 ___
 
@@ -134,7 +134,7 @@ Error - If an unknown value was provided in ``values`.
 
 #### Defined in
 
-[common/web/core/messaging/composers/MessageBuilder.ts:66](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/composers/MessageBuilder.ts#L66)
+[common/web/core/messaging/composers/MessageBuilder.ts:66](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/composers/MessageBuilder.ts#L66)
 
 ___
 
@@ -170,7 +170,7 @@ Error - If an unknown value was provided in ``values`.
 
 #### Defined in
 
-[common/web/core/messaging/composers/MessageBuilder.ts:89](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/composers/MessageBuilder.ts#L89)
+[common/web/core/messaging/composers/MessageBuilder.ts:89](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/composers/MessageBuilder.ts#L89)
 
 ___
 
@@ -197,4 +197,4 @@ The message builder keeps track of how many messages of the three major types ``
 
 #### Defined in
 
-[common/web/core/messaging/composers/MessageBuilder.ts:106](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/composers/MessageBuilder.ts#L106)
+[common/web/core/messaging/composers/MessageBuilder.ts:106](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/composers/MessageBuilder.ts#L106)

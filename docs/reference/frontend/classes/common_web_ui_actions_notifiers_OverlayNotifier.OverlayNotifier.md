@@ -40,7 +40,7 @@ Notifications displayed via overlay messages.
 
 #### Defined in
 
-[common/web/ui/actions/notifiers/OverlayNotifier.ts:20](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/actions/notifiers/OverlayNotifier.ts#L20)
+[common/web/ui/actions/notifiers/OverlayNotifier.ts:20](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/notifiers/OverlayNotifier.ts#L20)
 
 ## Properties
 
@@ -50,7 +50,7 @@ Notifications displayed via overlay messages.
 
 #### Defined in
 
-[common/web/ui/actions/notifiers/OverlayNotifier.ts:10](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/actions/notifiers/OverlayNotifier.ts#L10)
+[common/web/ui/actions/notifiers/OverlayNotifier.ts:10](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/notifiers/OverlayNotifier.ts#L10)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[common/web/ui/actions/notifiers/OverlayNotifier.ts:11](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/actions/notifiers/OverlayNotifier.ts#L11)
+[common/web/ui/actions/notifiers/OverlayNotifier.ts:11](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/notifiers/OverlayNotifier.ts#L11)
 
 ___
 
@@ -70,7 +70,7 @@ ___
 
 #### Defined in
 
-[common/web/ui/actions/notifiers/OverlayNotifier.ts:12](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/actions/notifiers/OverlayNotifier.ts#L12)
+[common/web/ui/actions/notifiers/OverlayNotifier.ts:12](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/notifiers/OverlayNotifier.ts#L12)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[common/web/ui/actions/notifiers/OverlayNotifier.ts:9](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/actions/notifiers/OverlayNotifier.ts#L9)
+[common/web/ui/actions/notifiers/OverlayNotifier.ts:9](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/notifiers/OverlayNotifier.ts#L9)
 
 ___
 
@@ -94,7 +94,7 @@ ___
 
 #### Defined in
 
-[common/web/ui/actions/notifiers/ActionNotifier.ts:7](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/actions/notifiers/ActionNotifier.ts#L7)
+[common/web/ui/actions/notifiers/ActionNotifier.ts:7](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/notifiers/ActionNotifier.ts#L7)
 
 ## Methods
 
@@ -119,7 +119,7 @@ ___
 
 #### Defined in
 
-[common/web/ui/actions/notifiers/ActionNotifier.ts:21](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/actions/notifiers/ActionNotifier.ts#L21)
+[common/web/ui/actions/notifiers/ActionNotifier.ts:21](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/notifiers/ActionNotifier.ts#L21)
 
 ___
 
@@ -139,7 +139,7 @@ Called when the action has finished (independent of its success).
 
 #### Defined in
 
-[common/web/ui/actions/notifiers/ActionNotifier.ts:18](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/actions/notifiers/ActionNotifier.ts#L18)
+[common/web/ui/actions/notifiers/ActionNotifier.ts:18](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/notifiers/ActionNotifier.ts#L18)
 
 ___
 
@@ -165,4 +165,4 @@ Called when the action triggers its notification.
 
 #### Defined in
 
-[common/web/ui/actions/notifiers/OverlayNotifier.ts:29](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/actions/notifiers/OverlayNotifier.ts#L29)
+[common/web/ui/actions/notifiers/OverlayNotifier.ts:29](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/notifiers/OverlayNotifier.ts#L29)

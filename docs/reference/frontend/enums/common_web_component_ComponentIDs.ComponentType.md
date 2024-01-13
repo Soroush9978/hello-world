@@ -17,7 +17,7 @@ All known component types.
 
 #### Defined in
 
-[common/web/component/ComponentIDs.ts:7](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/component/ComponentIDs.ts#L7)
+[common/web/component/ComponentIDs.ts:7](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/ComponentIDs.ts#L7)
 
 ___
 
@@ -27,7 +27,7 @@ ___
 
 #### Defined in
 
-[common/web/component/ComponentIDs.ts:5](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/component/ComponentIDs.ts#L5)
+[common/web/component/ComponentIDs.ts:5](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/ComponentIDs.ts#L5)
 
 ___
 
@@ -37,4 +37,4 @@ ___
 
 #### Defined in
 
-[common/web/component/ComponentIDs.ts:6](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/component/ComponentIDs.ts#L6)
+[common/web/component/ComponentIDs.ts:6](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/ComponentIDs.ts#L6)

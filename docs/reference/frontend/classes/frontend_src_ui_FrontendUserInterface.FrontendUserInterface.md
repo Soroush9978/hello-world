@@ -38,7 +38,7 @@ Class for frontend-specific user interface handling.
 
 #### Defined in
 
-[frontend/src/ui/FrontendUserInterface.ts:19](https://github.com/Soroush9978/rds-ng/blob/3365237/src/frontend/src/ui/FrontendUserInterface.ts#L19)
+[frontend/src/ui/FrontendUserInterface.ts:19](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/FrontendUserInterface.ts#L19)
 
 ## Properties
 
@@ -48,7 +48,7 @@ Class for frontend-specific user interface handling.
 
 #### Defined in
 
-[frontend/src/ui/FrontendUserInterface.ts:13](https://github.com/Soroush9978/rds-ng/blob/3365237/src/frontend/src/ui/FrontendUserInterface.ts#L13)
+[frontend/src/ui/FrontendUserInterface.ts:13](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/FrontendUserInterface.ts#L13)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[common/web/ui/UserInterface.ts:12](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/UserInterface.ts#L12)
+[common/web/ui/UserInterface.ts:12](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/UserInterface.ts#L12)
 
 ## Accessors
 
@@ -78,7 +78,7 @@ The frontend view.
 
 #### Defined in
 
-[frontend/src/ui/FrontendUserInterface.ts:39](https://github.com/Soroush9978/rds-ng/blob/3365237/src/frontend/src/ui/FrontendUserInterface.ts#L39)
+[frontend/src/ui/FrontendUserInterface.ts:39](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/FrontendUserInterface.ts#L39)
 
 ___
 
@@ -98,7 +98,7 @@ UserInterface.mainView
 
 #### Defined in
 
-[common/web/ui/UserInterface.ts:43](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/UserInterface.ts#L43)
+[common/web/ui/UserInterface.ts:43](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/UserInterface.ts#L43)
 
 ## Methods
 
@@ -120,7 +120,7 @@ Supply additional options for the main route.
 
 #### Defined in
 
-[frontend/src/ui/FrontendUserInterface.ts:26](https://github.com/Soroush9978/rds-ng/blob/3365237/src/frontend/src/ui/FrontendUserInterface.ts#L26)
+[frontend/src/ui/FrontendUserInterface.ts:26](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/FrontendUserInterface.ts#L26)
 
 ___
 
@@ -148,4 +148,4 @@ Creates additional sub-views of the main view.
 
 #### Defined in
 
-[frontend/src/ui/FrontendUserInterface.ts:32](https://github.com/Soroush9978/rds-ng/blob/3365237/src/frontend/src/ui/FrontendUserInterface.ts#L32)
+[frontend/src/ui/FrontendUserInterface.ts:32](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/FrontendUserInterface.ts#L32)

@@ -31,7 +31,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[common/web/core/messaging/Message.ts:137](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/Message.ts#L137)
+[common/web/core/messaging/Message.ts:137](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/Message.ts#L137)
 
 ## Methods
 
@@ -45,4 +45,4 @@ custom_edit_url: null
 
 #### Defined in
 
-[common/web/core/messaging/Message.ts:139](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/Message.ts#L139)
+[common/web/core/messaging/Message.ts:139](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/Message.ts#L139)

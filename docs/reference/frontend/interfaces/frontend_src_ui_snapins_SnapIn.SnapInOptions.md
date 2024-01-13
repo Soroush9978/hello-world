@@ -19,7 +19,7 @@ The general display name.
 
 #### Defined in
 
-[frontend/src/ui/snapins/SnapIn.ts:18](https://github.com/Soroush9978/rds-ng/blob/3365237/src/frontend/src/ui/snapins/SnapIn.ts#L18)
+[frontend/src/ui/snapins/SnapIn.ts:18](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/snapins/SnapIn.ts#L18)
 
 ___
 
@@ -38,7 +38,7 @@ Options specific to optional snap-ins (and their associated feature, if any).
 
 #### Defined in
 
-[frontend/src/ui/snapins/SnapIn.ts:21](https://github.com/Soroush9978/rds-ng/blob/3365237/src/frontend/src/ui/snapins/SnapIn.ts#L21)
+[frontend/src/ui/snapins/SnapIn.ts:21](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/snapins/SnapIn.ts#L21)
 
 ___
 
@@ -57,4 +57,4 @@ Tab-panel options.
 
 #### Defined in
 
-[frontend/src/ui/snapins/SnapIn.ts:30](https://github.com/Soroush9978/rds-ng/blob/3365237/src/frontend/src/ui/snapins/SnapIn.ts#L30)
+[frontend/src/ui/snapins/SnapIn.ts:30](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/snapins/SnapIn.ts#L30)

@@ -29,7 +29,7 @@ Whether debug mode should be enabled (value type: ``bool``).
 
 #### Defined in
 
-[common/web/settings/GeneralSettingIDs.ts:10](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/settings/GeneralSettingIDs.ts#L10)
+[common/web/settings/GeneralSettingIDs.ts:10](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/settings/GeneralSettingIDs.ts#L10)
 
 ___
 
@@ -41,4 +41,4 @@ The timeout for overlay notifications in seconds (value type: ``number``).
 
 #### Defined in
 
-[common/web/settings/GeneralSettingIDs.ts:12](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/settings/GeneralSettingIDs.ts#L12)
+[common/web/settings/GeneralSettingIDs.ts:12](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/settings/GeneralSettingIDs.ts#L12)

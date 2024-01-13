@@ -29,7 +29,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[common/web/core/logging/LogRecord.ts:9](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/logging/LogRecord.ts#L9)
+[common/web/core/logging/LogRecord.ts:9](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/LogRecord.ts#L9)
 
 ## Properties
 
@@ -39,7 +39,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[common/web/core/logging/LogRecord.ts:9](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/logging/LogRecord.ts#L9)
+[common/web/core/logging/LogRecord.ts:9](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/LogRecord.ts#L9)
 
 ___
 
@@ -49,7 +49,7 @@ ___
 
 #### Defined in
 
-[common/web/core/logging/LogRecord.ts:9](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/logging/LogRecord.ts#L9)
+[common/web/core/logging/LogRecord.ts:9](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/LogRecord.ts#L9)
 
 ___
 
@@ -59,7 +59,7 @@ ___
 
 #### Defined in
 
-[common/web/core/logging/LogRecord.ts:10](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/logging/LogRecord.ts#L10)
+[common/web/core/logging/LogRecord.ts:10](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/LogRecord.ts#L10)
 
 ___
 
@@ -69,7 +69,7 @@ ___
 
 #### Defined in
 
-[common/web/core/logging/LogRecord.ts:9](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/logging/LogRecord.ts#L9)
+[common/web/core/logging/LogRecord.ts:9](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/LogRecord.ts#L9)
 
 ___
 
@@ -79,7 +79,7 @@ ___
 
 #### Defined in
 
-[common/web/core/logging/LogRecord.ts:9](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/logging/LogRecord.ts#L9)
+[common/web/core/logging/LogRecord.ts:9](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/LogRecord.ts#L9)
 
 ## Accessors
 
@@ -93,4 +93,4 @@ ___
 
 #### Defined in
 
-[common/web/core/logging/LogRecord.ts:13](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/logging/LogRecord.ts#L13)
+[common/web/core/logging/LogRecord.ts:13](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/LogRecord.ts#L13)

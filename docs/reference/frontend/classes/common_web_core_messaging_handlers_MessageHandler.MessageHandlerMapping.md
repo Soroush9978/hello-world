@@ -29,7 +29,7 @@ Mapping from a message name filter to a message handler.
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageHandler.ts:16](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/handlers/MessageHandler.ts#L16)
+[common/web/core/messaging/handlers/MessageHandler.ts:16](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageHandler.ts#L16)
 
 ## Properties
 
@@ -41,7 +41,7 @@ The message name filter.
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageHandler.ts:16](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/handlers/MessageHandler.ts#L16)
+[common/web/core/messaging/handlers/MessageHandler.ts:16](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageHandler.ts#L16)
 
 ___
 
@@ -53,7 +53,7 @@ The message handler.
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageHandler.ts:16](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/handlers/MessageHandler.ts#L16)
+[common/web/core/messaging/handlers/MessageHandler.ts:16](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageHandler.ts#L16)
 
 ___
 
@@ -65,7 +65,7 @@ The message type the handler expects.
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageHandler.ts:16](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/handlers/MessageHandler.ts#L16)
+[common/web/core/messaging/handlers/MessageHandler.ts:16](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageHandler.ts#L16)
 
 ## Methods
 
@@ -81,4 +81,4 @@ Gets the string representation of the handler mapping.
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageHandler.ts:22](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/handlers/MessageHandler.ts#L22)
+[common/web/core/messaging/handlers/MessageHandler.ts:22](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageHandler.ts#L22)

@@ -20,4 +20,4 @@ The connector ID type.
 
 #### Defined in
 
-[common/web/data/entities/Connector.ts:6](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/data/entities/Connector.ts#L6)
+[common/web/data/entities/Connector.ts:6](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/data/entities/Connector.ts#L6)

@@ -46,7 +46,7 @@ The projects list.
 
 #### Defined in
 
-[common/web/core/messaging/Message.ts:53](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/Message.ts#L53)
+[common/web/core/messaging/Message.ts:53](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/Message.ts#L53)
 
 ## Properties
 
@@ -60,7 +60,7 @@ The projects list.
 
 #### Defined in
 
-[common/web/core/messaging/Message.ts:42](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/Message.ts#L42)
+[common/web/core/messaging/Message.ts:42](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/Message.ts#L42)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/CommandReply.ts:28](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/CommandReply.ts#L28)
+[common/web/core/messaging/CommandReply.ts:28](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/CommandReply.ts#L28)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/Message.ts:30](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/Message.ts#L30)
+[common/web/core/messaging/Message.ts:30](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/Message.ts#L30)
 
 ___
 
@@ -102,7 +102,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/Message.ts:33](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/Message.ts#L33)
+[common/web/core/messaging/Message.ts:33](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/Message.ts#L33)
 
 ___
 
@@ -112,7 +112,7 @@ ___
 
 #### Defined in
 
-[common/web/api/project/ProjectCommands.ts:34](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/api/project/ProjectCommands.ts#L34)
+[common/web/api/project/ProjectCommands.ts:34](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/api/project/ProjectCommands.ts#L34)
 
 ___
 
@@ -126,7 +126,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/Message.ts:36](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/Message.ts#L36)
+[common/web/core/messaging/Message.ts:36](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/Message.ts#L36)
 
 ___
 
@@ -140,7 +140,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/CommandReply.ts:27](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/CommandReply.ts#L27)
+[common/web/core/messaging/CommandReply.ts:27](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/CommandReply.ts#L27)
 
 ___
 
@@ -154,7 +154,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/Message.ts:39](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/Message.ts#L39)
+[common/web/core/messaging/Message.ts:39](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/Message.ts#L39)
 
 ___
 
@@ -168,7 +168,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/Message.ts:43](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/Message.ts#L43)
+[common/web/core/messaging/Message.ts:43](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/Message.ts#L43)
 
 ___
 
@@ -182,7 +182,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/CommandReply.ts:30](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/CommandReply.ts#L30)
+[common/web/core/messaging/CommandReply.ts:30](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/CommandReply.ts#L30)
 
 ___
 
@@ -196,7 +196,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/CommandReply.ts:25](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/CommandReply.ts#L25)
+[common/web/core/messaging/CommandReply.ts:25](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/CommandReply.ts#L25)
 
 ## Accessors
 
@@ -216,7 +216,7 @@ CommandReply.category
 
 #### Defined in
 
-[common/web/core/messaging/CommandReply.ts:35](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/CommandReply.ts#L35)
+[common/web/core/messaging/CommandReply.ts:35](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/CommandReply.ts#L35)
 
 ## Methods
 
@@ -236,7 +236,7 @@ Converts this message to JSON.
 
 #### Defined in
 
-[common/web/core/messaging/Message.ts:65](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/Message.ts#L65)
+[common/web/core/messaging/Message.ts:65](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/Message.ts#L65)
 
 ___
 
@@ -256,7 +256,7 @@ Gets the string representation of this message.
 
 #### Defined in
 
-[common/web/core/messaging/Message.ts:131](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/Message.ts#L131)
+[common/web/core/messaging/Message.ts:131](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/Message.ts#L131)
 
 ___
 
@@ -282,7 +282,7 @@ Helper function to easily build this message.
 
 #### Defined in
 
-[common/web/api/project/ProjectCommands.ts:39](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/api/project/ProjectCommands.ts#L39)
+[common/web/api/project/ProjectCommands.ts:39](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/api/project/ProjectCommands.ts#L39)
 
 ___
 
@@ -311,7 +311,7 @@ Creates a message from JSON data.
 
 #### Defined in
 
-[common/web/core/messaging/Message.ts:77](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/Message.ts#L77)
+[common/web/core/messaging/Message.ts:77](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/Message.ts#L77)
 
 ___
 
@@ -348,7 +348,7 @@ Examples:
 
 #### Defined in
 
-[common/web/core/messaging/Message.ts:105](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/Message.ts#L105)
+[common/web/core/messaging/Message.ts:105](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/Message.ts#L105)
 
 ___
 
@@ -368,4 +368,4 @@ Retrieves the name of the message type on a message class basis.
 
 #### Defined in
 
-[common/web/core/messaging/Message.ts:85](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/Message.ts#L85)
+[common/web/core/messaging/Message.ts:85](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/Message.ts#L85)

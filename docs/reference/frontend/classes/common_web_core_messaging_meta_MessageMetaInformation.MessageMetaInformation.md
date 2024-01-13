@@ -41,7 +41,7 @@ This includes its entrypoint into the system, as well as whether the message typ
 
 #### Defined in
 
-[common/web/core/messaging/meta/MessageMetaInformation.ts:21](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/meta/MessageMetaInformation.ts#L21)
+[common/web/core/messaging/meta/MessageMetaInformation.ts:21](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/meta/MessageMetaInformation.ts#L21)
 
 ## Properties
 
@@ -53,7 +53,7 @@ From where the message entered the system (locally or remotely).
 
 #### Defined in
 
-[common/web/core/messaging/meta/MessageMetaInformation.ts:21](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/meta/MessageMetaInformation.ts#L21)
+[common/web/core/messaging/meta/MessageMetaInformation.ts:21](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/meta/MessageMetaInformation.ts#L21)
 
 ___
 
@@ -65,4 +65,4 @@ Whether a reply is expected.
 
 #### Defined in
 
-[common/web/core/messaging/meta/MessageMetaInformation.ts:21](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/meta/MessageMetaInformation.ts#L21)
+[common/web/core/messaging/meta/MessageMetaInformation.ts:21](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/meta/MessageMetaInformation.ts#L21)

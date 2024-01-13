@@ -22,4 +22,4 @@ When adding a new snap-in, always register it here.
 
 #### Defined in
 
-[frontend/src/ui/snapins/SnapIns.ts:16](https://github.com/Soroush9978/rds-ng/blob/3365237/src/frontend/src/ui/snapins/SnapIns.ts#L16)
+[frontend/src/ui/snapins/SnapIns.ts:16](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/snapins/SnapIns.ts#L16)

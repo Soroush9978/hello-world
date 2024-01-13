@@ -22,4 +22,4 @@ Gets default values for all frontend settings.
 
 #### Defined in
 
-[frontend/src/settings/FrontendSettings.ts:10](https://github.com/Soroush9978/rds-ng/blob/3365237/src/frontend/src/settings/FrontendSettings.ts#L10)
+[frontend/src/settings/FrontendSettings.ts:10](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/settings/FrontendSettings.ts#L10)

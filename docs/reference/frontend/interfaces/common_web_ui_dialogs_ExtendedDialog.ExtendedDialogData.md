@@ -39,7 +39,7 @@ Called when the dialog was accepted.
 
 #### Defined in
 
-[common/web/ui/dialogs/ExtendedDialog.ts:44](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/dialogs/ExtendedDialog.ts#L44)
+[common/web/ui/dialogs/ExtendedDialog.ts:44](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/dialogs/ExtendedDialog.ts#L44)
 
 ___
 
@@ -51,7 +51,7 @@ Various display properties
 
 #### Defined in
 
-[common/web/ui/dialogs/ExtendedDialog.ts:38](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/dialogs/ExtendedDialog.ts#L38)
+[common/web/ui/dialogs/ExtendedDialog.ts:38](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/dialogs/ExtendedDialog.ts#L38)
 
 ___
 
@@ -71,7 +71,7 @@ Called when the dialog was dismissed.
 
 #### Defined in
 
-[common/web/ui/dialogs/ExtendedDialog.ts:47](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/dialogs/ExtendedDialog.ts#L47)
+[common/web/ui/dialogs/ExtendedDialog.ts:47](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/dialogs/ExtendedDialog.ts#L47)
 
 ___
 
@@ -83,7 +83,7 @@ Custom user data.
 
 #### Defined in
 
-[common/web/ui/dialogs/ExtendedDialog.ts:35](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/dialogs/ExtendedDialog.ts#L35)
+[common/web/ui/dialogs/ExtendedDialog.ts:35](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/dialogs/ExtendedDialog.ts#L35)
 
 ___
 
@@ -95,4 +95,4 @@ A form validator if a schema was provided in the options.
 
 #### Defined in
 
-[common/web/ui/dialogs/ExtendedDialog.ts:41](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/dialogs/ExtendedDialog.ts#L41)
+[common/web/ui/dialogs/ExtendedDialog.ts:41](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/dialogs/ExtendedDialog.ts#L41)

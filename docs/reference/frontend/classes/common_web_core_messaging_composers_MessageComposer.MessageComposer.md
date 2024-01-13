@@ -53,7 +53,7 @@ A class to collect all information necessary to create and emit a message.
 
 #### Defined in
 
-[common/web/core/messaging/composers/MessageComposer.ts:29](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/composers/MessageComposer.ts#L29)
+[common/web/core/messaging/composers/MessageComposer.ts:29](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/composers/MessageComposer.ts#L29)
 
 ## Properties
 
@@ -63,7 +63,7 @@ A class to collect all information necessary to create and emit a message.
 
 #### Defined in
 
-[common/web/core/messaging/composers/MessageComposer.ts:20](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/composers/MessageComposer.ts#L20)
+[common/web/core/messaging/composers/MessageComposer.ts:20](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/composers/MessageComposer.ts#L20)
 
 ___
 
@@ -73,7 +73,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/composers/MessageComposer.ts:18](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/composers/MessageComposer.ts#L18)
+[common/web/core/messaging/composers/MessageComposer.ts:18](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/composers/MessageComposer.ts#L18)
 
 ___
 
@@ -83,7 +83,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/composers/MessageComposer.ts:14](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/composers/MessageComposer.ts#L14)
+[common/web/core/messaging/composers/MessageComposer.ts:14](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/composers/MessageComposer.ts#L14)
 
 ___
 
@@ -93,7 +93,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/composers/MessageComposer.ts:16](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/composers/MessageComposer.ts#L16)
+[common/web/core/messaging/composers/MessageComposer.ts:16](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/composers/MessageComposer.ts#L16)
 
 ___
 
@@ -103,7 +103,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/composers/MessageComposer.ts:13](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/composers/MessageComposer.ts#L13)
+[common/web/core/messaging/composers/MessageComposer.ts:13](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/composers/MessageComposer.ts#L13)
 
 ___
 
@@ -113,7 +113,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/composers/MessageComposer.ts:17](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/composers/MessageComposer.ts#L17)
+[common/web/core/messaging/composers/MessageComposer.ts:17](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/composers/MessageComposer.ts#L17)
 
 ## Methods
 
@@ -137,7 +137,7 @@ Adds a callback that will be called immediately before the message is dispatched
 
 #### Defined in
 
-[common/web/core/messaging/composers/MessageComposer.ts:46](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/composers/MessageComposer.ts#L46)
+[common/web/core/messaging/composers/MessageComposer.ts:46](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/composers/MessageComposer.ts#L46)
 
 ___
 
@@ -151,7 +151,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/composers/MessageComposer.ts:73](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/composers/MessageComposer.ts#L73)
+[common/web/core/messaging/composers/MessageComposer.ts:73](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/composers/MessageComposer.ts#L73)
 
 ___
 
@@ -171,7 +171,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/composers/MessageComposer.ts:78](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/composers/MessageComposer.ts#L78)
+[common/web/core/messaging/composers/MessageComposer.ts:78](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/composers/MessageComposer.ts#L78)
 
 ___
 
@@ -185,7 +185,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/composers/MessageComposer.ts:76](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/composers/MessageComposer.ts#L76)
+[common/web/core/messaging/composers/MessageComposer.ts:76](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/composers/MessageComposer.ts#L76)
 
 ___
 
@@ -207,7 +207,7 @@ Sends the built message through the message bus.
 
 #### Defined in
 
-[common/web/core/messaging/composers/MessageComposer.ts:56](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/composers/MessageComposer.ts#L56)
+[common/web/core/messaging/composers/MessageComposer.ts:56](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/composers/MessageComposer.ts#L56)
 
 ___
 
@@ -221,4 +221,4 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/composers/MessageComposer.ts:70](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/composers/MessageComposer.ts#L70)
+[common/web/core/messaging/composers/MessageComposer.ts:70](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/composers/MessageComposer.ts#L70)

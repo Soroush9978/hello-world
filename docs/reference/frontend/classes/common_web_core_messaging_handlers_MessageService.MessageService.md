@@ -50,7 +50,7 @@ is used by the message bus as an encapsulated layer for message dispatching.
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageService.ts:29](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/handlers/MessageService.ts#L29)
+[common/web/core/messaging/handlers/MessageService.ts:29](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageService.ts#L29)
 
 ## Properties
 
@@ -60,7 +60,7 @@ is used by the message bus as an encapsulated layer for message dispatching.
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageService.ts:18](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/handlers/MessageService.ts#L18)
+[common/web/core/messaging/handlers/MessageService.ts:18](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageService.ts#L18)
 
 ___
 
@@ -70,7 +70,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageService.ts:22](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/handlers/MessageService.ts#L22)
+[common/web/core/messaging/handlers/MessageService.ts:22](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageService.ts#L22)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageService.ts:20](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/handlers/MessageService.ts#L20)
+[common/web/core/messaging/handlers/MessageService.ts:20](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageService.ts#L20)
 
 ___
 
@@ -90,7 +90,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageService.ts:21](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/handlers/MessageService.ts#L21)
+[common/web/core/messaging/handlers/MessageService.ts:21](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageService.ts#L21)
 
 ## Accessors
 
@@ -106,7 +106,7 @@ The message handlers maintained by this message service.
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageService.ts:62](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/handlers/MessageService.ts#L62)
+[common/web/core/messaging/handlers/MessageService.ts:62](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageService.ts#L62)
 
 ## Methods
 
@@ -132,7 +132,7 @@ Creates a new service context.
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageService.ts:46](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/handlers/MessageService.ts#L46)
+[common/web/core/messaging/handlers/MessageService.ts:46](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageService.ts#L46)
 
 ___
 
@@ -150,4 +150,4 @@ Creates a new message builder.
 
 #### Defined in
 
-[common/web/core/messaging/handlers/MessageService.ts:55](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/handlers/MessageService.ts#L55)
+[common/web/core/messaging/handlers/MessageService.ts:55](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/handlers/MessageService.ts#L55)

@@ -41,7 +41,7 @@ Message dispatcher specific to ``Command``.
 
 #### Defined in
 
-[common/web/core/messaging/dispatchers/MessageDispatcher.ts:14](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/dispatchers/MessageDispatcher.ts#L14)
+[common/web/core/messaging/dispatchers/MessageDispatcher.ts:14](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/dispatchers/MessageDispatcher.ts#L14)
 
 ## Methods
 
@@ -67,7 +67,7 @@ Message dispatcher specific to ``Command``.
 
 #### Defined in
 
-[common/web/core/messaging/dispatchers/CommandDispatcher.ts:41](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/dispatchers/CommandDispatcher.ts#L41)
+[common/web/core/messaging/dispatchers/CommandDispatcher.ts:41](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/dispatchers/CommandDispatcher.ts#L41)
 
 ___
 
@@ -109,7 +109,7 @@ Error - If the handler requires a different message type.
 
 #### Defined in
 
-[common/web/core/messaging/dispatchers/MessageDispatcher.ts:46](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/dispatchers/MessageDispatcher.ts#L46)
+[common/web/core/messaging/dispatchers/MessageDispatcher.ts:46](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/dispatchers/MessageDispatcher.ts#L46)
 
 ___
 
@@ -138,7 +138,7 @@ This method is called after any service-registered message handler have been inv
 
 #### Defined in
 
-[common/web/core/messaging/dispatchers/MessageDispatcher.ts:72](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/dispatchers/MessageDispatcher.ts#L72)
+[common/web/core/messaging/dispatchers/MessageDispatcher.ts:72](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/dispatchers/MessageDispatcher.ts#L72)
 
 ___
 
@@ -171,7 +171,7 @@ Error - If the meta information type is invalid.
 
 #### Defined in
 
-[common/web/core/messaging/dispatchers/CommandDispatcher.ts:34](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/dispatchers/CommandDispatcher.ts#L34)
+[common/web/core/messaging/dispatchers/CommandDispatcher.ts:34](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/dispatchers/CommandDispatcher.ts#L34)
 
 ___
 
@@ -191,7 +191,7 @@ Takes care of checking whether issued commands have already timed out.
 
 #### Defined in
 
-[common/web/core/messaging/dispatchers/CommandDispatcher.ts:15](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/dispatchers/CommandDispatcher.ts#L15)
+[common/web/core/messaging/dispatchers/CommandDispatcher.ts:15](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/dispatchers/CommandDispatcher.ts#L15)
 
 ___
 
@@ -219,4 +219,4 @@ Invokes command reply handlers.
 
 #### Defined in
 
-[common/web/core/messaging/dispatchers/CommandDispatcher.ts:57](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/dispatchers/CommandDispatcher.ts#L57)
+[common/web/core/messaging/dispatchers/CommandDispatcher.ts:57](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/dispatchers/CommandDispatcher.ts#L57)

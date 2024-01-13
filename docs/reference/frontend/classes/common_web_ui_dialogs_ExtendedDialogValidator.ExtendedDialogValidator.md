@@ -39,7 +39,7 @@ A wrapper class for validation using vee-validate.
 
 #### Defined in
 
-[common/web/ui/dialogs/ExtendedDialogValidator.ts:10](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/dialogs/ExtendedDialogValidator.ts#L10)
+[common/web/ui/dialogs/ExtendedDialogValidator.ts:10](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/dialogs/ExtendedDialogValidator.ts#L10)
 
 ## Properties
 
@@ -49,7 +49,7 @@ A wrapper class for validation using vee-validate.
 
 #### Defined in
 
-[common/web/ui/dialogs/ExtendedDialogValidator.ts:5](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/dialogs/ExtendedDialogValidator.ts#L5)
+[common/web/ui/dialogs/ExtendedDialogValidator.ts:5](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/dialogs/ExtendedDialogValidator.ts#L5)
 
 ## Accessors
 
@@ -65,7 +65,7 @@ The `defineComponentBinds` function.
 
 #### Defined in
 
-[common/web/ui/dialogs/ExtendedDialogValidator.ts:17](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/dialogs/ExtendedDialogValidator.ts#L17)
+[common/web/ui/dialogs/ExtendedDialogValidator.ts:17](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/dialogs/ExtendedDialogValidator.ts#L17)
 
 ___
 
@@ -81,7 +81,7 @@ A collection of all errors.
 
 #### Defined in
 
-[common/web/ui/dialogs/ExtendedDialogValidator.ts:39](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/dialogs/ExtendedDialogValidator.ts#L39)
+[common/web/ui/dialogs/ExtendedDialogValidator.ts:39](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/dialogs/ExtendedDialogValidator.ts#L39)
 
 ___
 
@@ -97,7 +97,7 @@ The `handleSubmit` function.
 
 #### Defined in
 
-[common/web/ui/dialogs/ExtendedDialogValidator.ts:31](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/dialogs/ExtendedDialogValidator.ts#L31)
+[common/web/ui/dialogs/ExtendedDialogValidator.ts:31](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/dialogs/ExtendedDialogValidator.ts#L31)
 
 ___
 
@@ -113,4 +113,4 @@ Validate the form.
 
 #### Defined in
 
-[common/web/ui/dialogs/ExtendedDialogValidator.ts:23](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/dialogs/ExtendedDialogValidator.ts#L23)
+[common/web/ui/dialogs/ExtendedDialogValidator.ts:23](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/dialogs/ExtendedDialogValidator.ts#L23)

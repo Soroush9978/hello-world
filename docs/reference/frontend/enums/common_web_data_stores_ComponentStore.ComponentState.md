@@ -20,7 +20,7 @@ The overall state of the component:
 
 #### Defined in
 
-[common/web/data/stores/ComponentStore.ts:11](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/data/stores/ComponentStore.ts#L11)
+[common/web/data/stores/ComponentStore.ts:11](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/data/stores/ComponentStore.ts#L11)
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 #### Defined in
 
-[common/web/data/stores/ComponentStore.ts:13](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/data/stores/ComponentStore.ts#L13)
+[common/web/data/stores/ComponentStore.ts:13](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/data/stores/ComponentStore.ts#L13)
 
 ___
 
@@ -40,7 +40,7 @@ ___
 
 #### Defined in
 
-[common/web/data/stores/ComponentStore.ts:12](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/data/stores/ComponentStore.ts#L12)
+[common/web/data/stores/ComponentStore.ts:12](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/data/stores/ComponentStore.ts#L12)
 
 ___
 
@@ -50,4 +50,4 @@ ___
 
 #### Defined in
 
-[common/web/data/stores/ComponentStore.ts:14](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/data/stores/ComponentStore.ts#L14)
+[common/web/data/stores/ComponentStore.ts:14](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/data/stores/ComponentStore.ts#L14)

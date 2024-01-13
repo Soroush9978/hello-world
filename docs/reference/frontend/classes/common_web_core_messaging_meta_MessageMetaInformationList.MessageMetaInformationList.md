@@ -27,7 +27,7 @@ List to store message meta information objects.
 
 #### Defined in
 
-[common/web/core/messaging/meta/MessageMetaInformationList.ts:26](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/meta/MessageMetaInformationList.ts#L26)
+[common/web/core/messaging/meta/MessageMetaInformationList.ts:26](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/meta/MessageMetaInformationList.ts#L26)
 
 ## Methods
 
@@ -51,7 +51,7 @@ Adds a new entry to the list.
 
 #### Defined in
 
-[common/web/core/messaging/meta/MessageMetaInformationList.ts:35](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/meta/MessageMetaInformationList.ts#L35)
+[common/web/core/messaging/meta/MessageMetaInformationList.ts:35](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/meta/MessageMetaInformationList.ts#L35)
 
 ___
 
@@ -75,7 +75,7 @@ Finds an entry associated with the given ``unique``.
 
 #### Defined in
 
-[common/web/core/messaging/meta/MessageMetaInformationList.ts:59](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/meta/MessageMetaInformationList.ts#L59)
+[common/web/core/messaging/meta/MessageMetaInformationList.ts:59](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/meta/MessageMetaInformationList.ts#L59)
 
 ___
 
@@ -93,7 +93,7 @@ Finds all entries that have timed out already.
 
 #### Defined in
 
-[common/web/core/messaging/meta/MessageMetaInformationList.ts:72](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/meta/MessageMetaInformationList.ts#L72)
+[common/web/core/messaging/meta/MessageMetaInformationList.ts:72](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/meta/MessageMetaInformationList.ts#L72)
 
 ___
 
@@ -115,4 +115,4 @@ Removes an entry from the list.
 
 #### Defined in
 
-[common/web/core/messaging/meta/MessageMetaInformationList.ts:46](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/meta/MessageMetaInformationList.ts#L46)
+[common/web/core/messaging/meta/MessageMetaInformationList.ts:46](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/meta/MessageMetaInformationList.ts#L46)

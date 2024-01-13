@@ -34,7 +34,7 @@ used component information and data.
 
 #### Defined in
 
-[common/web/component/WebComponentData.ts:20](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/component/WebComponentData.ts#L20)
+[common/web/component/WebComponentData.ts:20](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponentData.ts#L20)
 
 ## Properties
 
@@ -46,7 +46,7 @@ The component identifier.
 
 #### Defined in
 
-[common/web/component/WebComponentData.ts:20](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/component/WebComponentData.ts#L20)
+[common/web/component/WebComponentData.ts:20](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponentData.ts#L20)
 
 ___
 
@@ -58,7 +58,7 @@ The configuration.
 
 #### Defined in
 
-[common/web/component/WebComponentData.ts:20](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/component/WebComponentData.ts#L20)
+[common/web/component/WebComponentData.ts:20](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponentData.ts#L20)
 
 ___
 
@@ -70,7 +70,7 @@ The component name.
 
 #### Defined in
 
-[common/web/component/WebComponentData.ts:21](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/component/WebComponentData.ts#L21)
+[common/web/component/WebComponentData.ts:21](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponentData.ts#L21)
 
 ___
 
@@ -82,7 +82,7 @@ The project title.
 
 #### Defined in
 
-[common/web/component/WebComponentData.ts:21](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/component/WebComponentData.ts#L21)
+[common/web/component/WebComponentData.ts:21](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponentData.ts#L21)
 
 ___
 
@@ -94,4 +94,4 @@ The project version.
 
 #### Defined in
 
-[common/web/component/WebComponentData.ts:21](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/component/WebComponentData.ts#L21)
+[common/web/component/WebComponentData.ts:21](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponentData.ts#L21)

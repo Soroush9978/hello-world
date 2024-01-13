@@ -38,7 +38,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[common/web/core/messaging/CommandReply.ts:40](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/CommandReply.ts#L40)
+[common/web/core/messaging/CommandReply.ts:40](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/CommandReply.ts#L40)
 
 ___
 
@@ -63,4 +63,4 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/CommandReply.ts:41](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/CommandReply.ts#L41)
+[common/web/core/messaging/CommandReply.ts:41](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/CommandReply.ts#L41)

@@ -28,4 +28,4 @@ Creates the component service that reacts to basic messages.
 
 #### Defined in
 
-[common/web/services/ComponentService.ts:16](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/services/ComponentService.ts#L16)
+[common/web/services/ComponentService.ts:16](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/services/ComponentService.ts#L16)

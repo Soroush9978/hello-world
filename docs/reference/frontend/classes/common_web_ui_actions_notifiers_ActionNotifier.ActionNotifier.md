@@ -35,7 +35,7 @@ A snap-in for actions to display arbitrary notifications about the action execut
 
 #### Defined in
 
-[common/web/ui/actions/notifiers/ActionNotifier.ts:7](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/actions/notifiers/ActionNotifier.ts#L7)
+[common/web/ui/actions/notifiers/ActionNotifier.ts:7](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/notifiers/ActionNotifier.ts#L7)
 
 ## Methods
 
@@ -56,7 +56,7 @@ A snap-in for actions to display arbitrary notifications about the action execut
 
 #### Defined in
 
-[common/web/ui/actions/notifiers/ActionNotifier.ts:21](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/actions/notifiers/ActionNotifier.ts#L21)
+[common/web/ui/actions/notifiers/ActionNotifier.ts:21](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/notifiers/ActionNotifier.ts#L21)
 
 ___
 
@@ -72,7 +72,7 @@ Called when the action has finished (independent of its success).
 
 #### Defined in
 
-[common/web/ui/actions/notifiers/ActionNotifier.ts:18](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/actions/notifiers/ActionNotifier.ts#L18)
+[common/web/ui/actions/notifiers/ActionNotifier.ts:18](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/notifiers/ActionNotifier.ts#L18)
 
 ___
 
@@ -94,4 +94,4 @@ Called when the action triggers its notification.
 
 #### Defined in
 
-[common/web/ui/actions/notifiers/ActionNotifier.ts:12](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/actions/notifiers/ActionNotifier.ts#L12)
+[common/web/ui/actions/notifiers/ActionNotifier.ts:12](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/notifiers/ActionNotifier.ts#L12)

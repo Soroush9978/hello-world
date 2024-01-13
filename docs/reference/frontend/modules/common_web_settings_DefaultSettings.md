@@ -22,4 +22,4 @@ Gets default values for all settings.
 
 #### Defined in
 
-[common/web/settings/DefaultSettings.ts:10](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/settings/DefaultSettings.ts#L10)
+[common/web/settings/DefaultSettings.ts:10](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/settings/DefaultSettings.ts#L10)

@@ -27,7 +27,7 @@ The result of an extended dialog in form of a `Promise`.
 
 #### Defined in
 
-[common/web/ui/dialogs/ExtendedDialog.ts:53](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/dialogs/ExtendedDialog.ts#L53)
+[common/web/ui/dialogs/ExtendedDialog.ts:53](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/dialogs/ExtendedDialog.ts#L53)
 
 ## Functions
 
@@ -60,4 +60,4 @@ Shows a (popup) dialog with extended functionality.
 
 #### Defined in
 
-[common/web/ui/dialogs/ExtendedDialog.ts:65](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/dialogs/ExtendedDialog.ts#L65)
+[common/web/ui/dialogs/ExtendedDialog.ts:65](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/dialogs/ExtendedDialog.ts#L65)

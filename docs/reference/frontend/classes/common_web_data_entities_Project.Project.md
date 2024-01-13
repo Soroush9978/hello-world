@@ -60,7 +60,7 @@ All project options.
 
 #### Defined in
 
-[common/web/data/entities/Project.ts:47](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/data/entities/Project.ts#L47)
+[common/web/data/entities/Project.ts:47](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/data/entities/Project.ts#L47)
 
 ## Properties
 
@@ -70,7 +70,7 @@ All project options.
 
 #### Defined in
 
-[common/web/data/entities/Project.ts:33](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/data/entities/Project.ts#L33)
+[common/web/data/entities/Project.ts:33](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/data/entities/Project.ts#L33)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[common/web/data/entities/Project.ts:36](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/data/entities/Project.ts#L36)
+[common/web/data/entities/Project.ts:36](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/data/entities/Project.ts#L36)
 
 ___
 
@@ -90,7 +90,7 @@ ___
 
 #### Defined in
 
-[common/web/data/entities/Project.ts:42](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/data/entities/Project.ts#L42)
+[common/web/data/entities/Project.ts:42](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/data/entities/Project.ts#L42)
 
 ___
 
@@ -100,7 +100,7 @@ ___
 
 #### Defined in
 
-[common/web/data/entities/Project.ts:45](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/data/entities/Project.ts#L45)
+[common/web/data/entities/Project.ts:45](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/data/entities/Project.ts#L45)
 
 ___
 
@@ -110,7 +110,7 @@ ___
 
 #### Defined in
 
-[common/web/data/entities/Project.ts:31](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/data/entities/Project.ts#L31)
+[common/web/data/entities/Project.ts:31](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/data/entities/Project.ts#L31)
 
 ___
 
@@ -120,7 +120,7 @@ ___
 
 #### Defined in
 
-[common/web/data/entities/Project.ts:38](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/data/entities/Project.ts#L38)
+[common/web/data/entities/Project.ts:38](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/data/entities/Project.ts#L38)
 
 ___
 
@@ -130,4 +130,4 @@ ___
 
 #### Defined in
 
-[common/web/data/entities/Project.ts:35](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/data/entities/Project.ts#L35)
+[common/web/data/entities/Project.ts:35](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/data/entities/Project.ts#L35)

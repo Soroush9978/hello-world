@@ -31,7 +31,7 @@ An action that encapsulates multiple other actions that are executed in order.
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:22](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/actions/ActionBase.ts#L22)
+[common/web/ui/actions/ActionBase.ts:22](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L22)
 
 ## Properties
 
@@ -45,7 +45,7 @@ An action that encapsulates multiple other actions that are executed in order.
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:17](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/actions/ActionBase.ts#L17)
+[common/web/ui/actions/ActionBase.ts:17](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L17)
 
 ## Accessors
 
@@ -65,7 +65,7 @@ MultiAction.state
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:101](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/actions/ActionBase.ts#L101)
+[common/web/ui/actions/ActionBase.ts:101](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L101)
 
 ___
 
@@ -85,7 +85,7 @@ MultiAction.suppressDefaultNotifiers
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:108](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/actions/ActionBase.ts#L108)
+[common/web/ui/actions/ActionBase.ts:108](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L108)
 
 • `set` **suppressDefaultNotifiers**(`suppress`): `void`
 
@@ -107,7 +107,7 @@ MultiAction.suppressDefaultNotifiers
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:115](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/actions/ActionBase.ts#L115)
+[common/web/ui/actions/ActionBase.ts:115](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L115)
 
 ## Methods
 
@@ -135,7 +135,7 @@ Note that actions are executed synchronously in the order in which they were add
 
 #### Defined in
 
-[common/web/ui/actions/MultiAction.ts:18](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/actions/MultiAction.ts#L18)
+[common/web/ui/actions/MultiAction.ts:18](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/MultiAction.ts#L18)
 
 ___
 
@@ -153,7 +153,7 @@ ___
 
 #### Defined in
 
-[frontend/src/ui/actions/FetchAllDataAction.ts:25](https://github.com/Soroush9978/rds-ng/blob/3365237/src/frontend/src/ui/actions/FetchAllDataAction.ts#L25)
+[frontend/src/ui/actions/FetchAllDataAction.ts:25](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/actions/FetchAllDataAction.ts#L25)
 
 ___
 
@@ -180,7 +180,7 @@ Adds a new notifier for the specified state.
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:32](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/actions/ActionBase.ts#L32)
+[common/web/ui/actions/ActionBase.ts:32](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L32)
 
 ___
 
@@ -200,7 +200,7 @@ Executes the action (i.e., all enqueued messages will be executed).
 
 #### Defined in
 
-[common/web/ui/actions/MultiAction.ts:36](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/actions/MultiAction.ts#L36)
+[common/web/ui/actions/MultiAction.ts:36](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/MultiAction.ts#L36)
 
 ___
 
@@ -225,7 +225,7 @@ ___
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:89](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/actions/ActionBase.ts#L89)
+[common/web/ui/actions/ActionBase.ts:89](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L89)
 
 ___
 
@@ -243,7 +243,7 @@ ___
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:95](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/actions/ActionBase.ts#L95)
+[common/web/ui/actions/ActionBase.ts:95](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L95)
 
 ___
 
@@ -261,7 +261,7 @@ ___
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:92](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/actions/ActionBase.ts#L92)
+[common/web/ui/actions/ActionBase.ts:92](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L92)
 
 ___
 
@@ -281,7 +281,7 @@ ___
 
 #### Defined in
 
-[frontend/src/ui/actions/FetchAllDataAction.ts:11](https://github.com/Soroush9978/rds-ng/blob/3365237/src/frontend/src/ui/actions/FetchAllDataAction.ts#L11)
+[frontend/src/ui/actions/FetchAllDataAction.ts:11](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/actions/FetchAllDataAction.ts#L11)
 
 ___
 
@@ -305,7 +305,7 @@ ___
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:44](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/actions/ActionBase.ts#L44)
+[common/web/ui/actions/ActionBase.ts:44](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L44)
 
 ___
 
@@ -332,4 +332,4 @@ Sets the active state of this action.
 
 #### Defined in
 
-[common/web/ui/actions/ActionBase.ts:64](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/actions/ActionBase.ts#L64)
+[common/web/ui/actions/ActionBase.ts:64](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/actions/ActionBase.ts#L64)

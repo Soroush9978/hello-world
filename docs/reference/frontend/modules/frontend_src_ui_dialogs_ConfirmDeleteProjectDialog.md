@@ -27,4 +27,4 @@ Shows a confirmation dialog for project deletion.
 
 #### Defined in
 
-[frontend/src/ui/dialogs/ConfirmDeleteProjectDialog.ts:12](https://github.com/Soroush9978/rds-ng/blob/3365237/src/frontend/src/ui/dialogs/ConfirmDeleteProjectDialog.ts#L12)
+[frontend/src/ui/dialogs/ConfirmDeleteProjectDialog.ts:12](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/dialogs/ConfirmDeleteProjectDialog.ts#L12)

@@ -31,7 +31,7 @@ A snap-in represents a certain feature aspect of a project that integrates itsel
 
 #### Defined in
 
-[frontend/src/ui/snapins/metadata/MetadataSnapIn.ts:8](https://github.com/Soroush9978/rds-ng/blob/3365237/src/frontend/src/ui/snapins/metadata/MetadataSnapIn.ts#L8)
+[frontend/src/ui/snapins/metadata/MetadataSnapIn.ts:8](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/snapins/metadata/MetadataSnapIn.ts#L8)
 
 ## Properties
 
@@ -41,7 +41,7 @@ A snap-in represents a certain feature aspect of a project that integrates itsel
 
 #### Defined in
 
-[frontend/src/ui/snapins/metadata/MetadataSnapIn.ts:6](https://github.com/Soroush9978/rds-ng/blob/3365237/src/frontend/src/ui/snapins/metadata/MetadataSnapIn.ts#L6)
+[frontend/src/ui/snapins/metadata/MetadataSnapIn.ts:6](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/snapins/metadata/MetadataSnapIn.ts#L6)
 
 ## Accessors
 
@@ -61,7 +61,7 @@ SnapIn.options
 
 #### Defined in
 
-[frontend/src/ui/snapins/SnapIn.ts:65](https://github.com/Soroush9978/rds-ng/blob/3365237/src/frontend/src/ui/snapins/SnapIn.ts#L65)
+[frontend/src/ui/snapins/SnapIn.ts:65](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/snapins/SnapIn.ts#L65)
 
 ___
 
@@ -81,7 +81,7 @@ SnapIn.snapInID
 
 #### Defined in
 
-[frontend/src/ui/snapins/SnapIn.ts:58](https://github.com/Soroush9978/rds-ng/blob/3365237/src/frontend/src/ui/snapins/SnapIn.ts#L58)
+[frontend/src/ui/snapins/SnapIn.ts:58](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/snapins/SnapIn.ts#L58)
 
 ## Methods
 
@@ -101,7 +101,7 @@ Whether this snap-in has a tab panel.
 
 #### Defined in
 
-[frontend/src/ui/snapins/SnapIn.ts:79](https://github.com/Soroush9978/rds-ng/blob/3365237/src/frontend/src/ui/snapins/SnapIn.ts#L79)
+[frontend/src/ui/snapins/SnapIn.ts:79](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/snapins/SnapIn.ts#L79)
 
 ___
 
@@ -121,4 +121,4 @@ Whether this snap-in is optional.
 
 #### Defined in
 
-[frontend/src/ui/snapins/SnapIn.ts:72](https://github.com/Soroush9978/rds-ng/blob/3365237/src/frontend/src/ui/snapins/SnapIn.ts#L72)
+[frontend/src/ui/snapins/SnapIn.ts:72](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/snapins/SnapIn.ts#L72)

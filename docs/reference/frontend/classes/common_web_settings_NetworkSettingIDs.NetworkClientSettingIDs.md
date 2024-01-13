@@ -29,7 +29,7 @@ The maximum time (in seconds) for connection attempts (value type: ``float``).
 
 #### Defined in
 
-[common/web/settings/NetworkSettingIDs.ts:11](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/settings/NetworkSettingIDs.ts#L11)
+[common/web/settings/NetworkSettingIDs.ts:11](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/settings/NetworkSettingIDs.ts#L11)
 
 ___
 
@@ -41,4 +41,4 @@ The address of the server the client should automatically connect to (value type
 
 #### Defined in
 
-[common/web/settings/NetworkSettingIDs.ts:10](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/settings/NetworkSettingIDs.ts#L10)
+[common/web/settings/NetworkSettingIDs.ts:10](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/settings/NetworkSettingIDs.ts#L10)

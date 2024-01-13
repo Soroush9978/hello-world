@@ -40,7 +40,7 @@ The main view enclosing/containing the entire component.
 
 #### Defined in
 
-[common/web/ui/views/main/MainView.ts:23](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/views/main/MainView.ts#L23)
+[common/web/ui/views/main/MainView.ts:23](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/views/main/MainView.ts#L23)
 
 ## Properties
 
@@ -50,7 +50,7 @@ The main view enclosing/containing the entire component.
 
 #### Defined in
 
-[common/web/ui/views/main/MainView.ts:15](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/views/main/MainView.ts#L15)
+[common/web/ui/views/main/MainView.ts:15](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/views/main/MainView.ts#L15)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[common/web/ui/views/View.ts:11](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/views/View.ts#L11)
+[common/web/ui/views/View.ts:11](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/views/View.ts#L11)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[common/web/ui/views/View.ts:12](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/views/View.ts#L12)
+[common/web/ui/views/View.ts:12](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/views/View.ts#L12)
 
 ___
 
@@ -92,7 +92,7 @@ ___
 
 #### Defined in
 
-[common/web/ui/views/View.ts:10](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/views/View.ts#L10)
+[common/web/ui/views/View.ts:10](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/views/View.ts#L10)
 
 ___
 
@@ -106,7 +106,7 @@ ___
 
 #### Defined in
 
-[common/web/ui/views/View.ts:14](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/views/View.ts#L14)
+[common/web/ui/views/View.ts:14](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/views/View.ts#L14)
 
 ## Accessors
 
@@ -126,7 +126,7 @@ View.name
 
 #### Defined in
 
-[common/web/ui/views/View.ts:72](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/views/View.ts#L72)
+[common/web/ui/views/View.ts:72](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/views/View.ts#L72)
 
 ___
 
@@ -146,7 +146,7 @@ View.subViews
 
 #### Defined in
 
-[common/web/ui/views/View.ts:79](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/views/View.ts#L79)
+[common/web/ui/views/View.ts:79](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/views/View.ts#L79)
 
 ## Methods
 
@@ -166,7 +166,7 @@ Defines the route for this view.
 
 #### Defined in
 
-[common/web/ui/views/main/MainView.ts:29](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/views/main/MainView.ts#L29)
+[common/web/ui/views/main/MainView.ts:29](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/views/main/MainView.ts#L29)
 
 ___
 
@@ -192,7 +192,7 @@ Error - If the component state is unknown.
 
 #### Defined in
 
-[common/web/ui/views/main/MainView.ts:44](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/views/main/MainView.ts#L44)
+[common/web/ui/views/main/MainView.ts:44](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/views/main/MainView.ts#L44)
 
 ___
 
@@ -216,7 +216,7 @@ ___
 
 #### Defined in
 
-[common/web/ui/views/View.ts:32](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/views/View.ts#L32)
+[common/web/ui/views/View.ts:32](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/views/View.ts#L32)
 
 ___
 
@@ -246,7 +246,7 @@ Navigates to (= activates) this view.
 
 #### Defined in
 
-[common/web/ui/views/View.ts:64](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/views/View.ts#L64)
+[common/web/ui/views/View.ts:64](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/views/View.ts#L64)
 
 ___
 
@@ -266,4 +266,4 @@ Gets the route of this view.
 
 #### Defined in
 
-[common/web/ui/views/View.ts:39](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/views/View.ts#L39)
+[common/web/ui/views/View.ts:39](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/views/View.ts#L39)

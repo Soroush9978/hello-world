@@ -30,7 +30,7 @@ in a color-rich format for easy readability.
 
 #### Defined in
 
-[common/web/core/logging/Logger.ts:16](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/logging/Logger.ts#L16)
+[common/web/core/logging/Logger.ts:16](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/Logger.ts#L16)
 
 ## Properties
 
@@ -40,7 +40,7 @@ in a color-rich format for easy readability.
 
 #### Defined in
 
-[common/web/core/logging/Logger.ts:11](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/logging/Logger.ts#L11)
+[common/web/core/logging/Logger.ts:11](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/Logger.ts#L11)
 
 ## Methods
 
@@ -63,7 +63,7 @@ in a color-rich format for easy readability.
 
 #### Defined in
 
-[common/web/core/logging/Logger.ts:77](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/logging/Logger.ts#L77)
+[common/web/core/logging/Logger.ts:77](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/Logger.ts#L77)
 
 ___
 
@@ -87,7 +87,7 @@ Logs a debugging message.
 
 #### Defined in
 
-[common/web/core/logging/Logger.ts:36](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/logging/Logger.ts#L36)
+[common/web/core/logging/Logger.ts:36](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/Logger.ts#L36)
 
 ___
 
@@ -111,7 +111,7 @@ Logs an error message.
 
 #### Defined in
 
-[common/web/core/logging/Logger.ts:72](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/logging/Logger.ts#L72)
+[common/web/core/logging/Logger.ts:72](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/Logger.ts#L72)
 
 ___
 
@@ -135,7 +135,7 @@ Logs an info message.
 
 #### Defined in
 
-[common/web/core/logging/Logger.ts:48](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/logging/Logger.ts#L48)
+[common/web/core/logging/Logger.ts:48](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/Logger.ts#L48)
 
 ___
 
@@ -155,7 +155,7 @@ ___
 
 #### Defined in
 
-[common/web/core/logging/Logger.ts:81](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/logging/Logger.ts#L81)
+[common/web/core/logging/Logger.ts:81](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/Logger.ts#L81)
 
 ___
 
@@ -177,7 +177,7 @@ Sets the maximum logging level.
 
 #### Defined in
 
-[common/web/core/logging/Logger.ts:25](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/logging/Logger.ts#L25)
+[common/web/core/logging/Logger.ts:25](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/Logger.ts#L25)
 
 ___
 
@@ -201,4 +201,4 @@ Logs a warning message.
 
 #### Defined in
 
-[common/web/core/logging/Logger.ts:60](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/logging/Logger.ts#L60)
+[common/web/core/logging/Logger.ts:60](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/Logger.ts#L60)

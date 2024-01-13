@@ -30,7 +30,7 @@ Afterwards, the router decides through which channels (local, remote) it needs t
 
 #### Defined in
 
-[common/web/core/messaging/MessageRouter.ts:17](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/MessageRouter.ts#L17)
+[common/web/core/messaging/MessageRouter.ts:17](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/MessageRouter.ts#L17)
 
 ## Properties
 
@@ -40,7 +40,7 @@ Afterwards, the router decides through which channels (local, remote) it needs t
 
 #### Defined in
 
-[common/web/core/messaging/MessageRouter.ts:12](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/MessageRouter.ts#L12)
+[common/web/core/messaging/MessageRouter.ts:12](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/MessageRouter.ts#L12)
 
 ## Methods
 
@@ -63,7 +63,7 @@ Checks if the message should be routed locally.
 
 #### Defined in
 
-[common/web/core/messaging/MessageRouter.ts:43](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/MessageRouter.ts#L43)
+[common/web/core/messaging/MessageRouter.ts:43](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/MessageRouter.ts#L43)
 
 ___
 
@@ -86,7 +86,7 @@ Checks if the message should be routed remotely.
 
 #### Defined in
 
-[common/web/core/messaging/MessageRouter.ts:61](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/MessageRouter.ts#L61)
+[common/web/core/messaging/MessageRouter.ts:61](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/MessageRouter.ts#L61)
 
 ___
 
@@ -107,7 +107,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/MessageRouter.ts:71](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/MessageRouter.ts#L71)
+[common/web/core/messaging/MessageRouter.ts:71](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/MessageRouter.ts#L71)
 
 ___
 
@@ -128,7 +128,7 @@ ___
 
 #### Defined in
 
-[common/web/core/messaging/MessageRouter.ts:65](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/MessageRouter.ts#L65)
+[common/web/core/messaging/MessageRouter.ts:65](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/MessageRouter.ts#L65)
 
 ___
 
@@ -155,4 +155,4 @@ Error - In case the message is not valid to enter the message bus.
 
 #### Defined in
 
-[common/web/core/messaging/MessageRouter.ts:29](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/MessageRouter.ts#L29)
+[common/web/core/messaging/MessageRouter.ts:29](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/MessageRouter.ts#L29)

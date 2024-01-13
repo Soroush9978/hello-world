@@ -54,7 +54,7 @@ about the application itself and the entire project.
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:73](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/component/WebComponent.ts#L73)
+[common/web/component/WebComponent.ts:73](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L73)
 
 ## Properties
 
@@ -64,7 +64,7 @@ about the application itself and the entire project.
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:61](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/component/WebComponent.ts#L61)
+[common/web/component/WebComponent.ts:61](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L61)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:59](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/component/WebComponent.ts#L59)
+[common/web/component/WebComponent.ts:59](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L59)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:62](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/component/WebComponent.ts#L62)
+[common/web/component/WebComponent.ts:62](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L62)
 
 ___
 
@@ -94,7 +94,7 @@ ___
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:64](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/component/WebComponent.ts#L64)
+[common/web/component/WebComponent.ts:64](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L64)
 
 ___
 
@@ -104,7 +104,7 @@ ___
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:65](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/component/WebComponent.ts#L65)
+[common/web/component/WebComponent.ts:65](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L65)
 
 ___
 
@@ -114,7 +114,7 @@ ___
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:57](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/component/WebComponent.ts#L57)
+[common/web/component/WebComponent.ts:57](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L57)
 
 ___
 
@@ -124,7 +124,7 @@ ___
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:56](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/component/WebComponent.ts#L56)
+[common/web/component/WebComponent.ts:56](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L56)
 
 ## Accessors
 
@@ -140,7 +140,7 @@ A data helper object that stores useful component data and information.
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:212](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/component/WebComponent.ts#L212)
+[common/web/component/WebComponent.ts:212](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L212)
 
 ___
 
@@ -156,7 +156,7 @@ The global router.
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:219](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/component/WebComponent.ts#L219)
+[common/web/component/WebComponent.ts:219](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L219)
 
 ___
 
@@ -172,7 +172,7 @@ The global user interface.
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:226](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/component/WebComponent.ts#L226)
+[common/web/component/WebComponent.ts:226](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L226)
 
 ___
 
@@ -188,7 +188,7 @@ The global Vue application instance.
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:233](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/component/WebComponent.ts#L233)
+[common/web/component/WebComponent.ts:233](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L233)
 
 ___
 
@@ -208,7 +208,7 @@ Error - If no instance has been created.
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:255](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/component/WebComponent.ts#L255)
+[common/web/component/WebComponent.ts:255](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L255)
 
 ## Methods
 
@@ -222,7 +222,7 @@ Error - If no instance has been created.
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:148](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/component/WebComponent.ts#L148)
+[common/web/component/WebComponent.ts:148](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L148)
 
 ___
 
@@ -240,7 +240,7 @@ Sets up routes for the Vue router.
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:157](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/component/WebComponent.ts#L157)
+[common/web/component/WebComponent.ts:157](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L157)
 
 ___
 
@@ -260,7 +260,7 @@ ___
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:100](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/component/WebComponent.ts#L100)
+[common/web/component/WebComponent.ts:100](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L100)
 
 ___
 
@@ -274,7 +274,7 @@ ___
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:113](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/component/WebComponent.ts#L113)
+[common/web/component/WebComponent.ts:113](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L113)
 
 ___
 
@@ -304,7 +304,7 @@ Creates and registers a new service.
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:198](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/component/WebComponent.ts#L198)
+[common/web/component/WebComponent.ts:198](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L198)
 
 ___
 
@@ -325,7 +325,7 @@ ___
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:120](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/component/WebComponent.ts#L120)
+[common/web/component/WebComponent.ts:120](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L120)
 
 ___
 
@@ -339,7 +339,7 @@ ___
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:124](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/component/WebComponent.ts#L124)
+[common/web/component/WebComponent.ts:124](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L124)
 
 ___
 
@@ -364,7 +364,7 @@ Notes:
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:169](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/component/WebComponent.ts#L169)
+[common/web/component/WebComponent.ts:169](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L169)
 
 ___
 
@@ -383,7 +383,7 @@ Notes:
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:179](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/component/WebComponent.ts#L179)
+[common/web/component/WebComponent.ts:179](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L179)
 
 ___
 
@@ -403,7 +403,7 @@ ___
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:262](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/component/WebComponent.ts#L262)
+[common/web/component/WebComponent.ts:262](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L262)
 
 ___
 
@@ -419,7 +419,7 @@ ___
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:272](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/component/WebComponent.ts#L272)
+[common/web/component/WebComponent.ts:272](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L272)
 
 ___
 
@@ -445,4 +445,4 @@ Error - If no instance has been created.
 
 #### Defined in
 
-[common/web/component/WebComponent.ts:242](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/component/WebComponent.ts#L242)
+[common/web/component/WebComponent.ts:242](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/component/WebComponent.ts#L242)

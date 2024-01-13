@@ -37,7 +37,7 @@ The main view enclosing/containing the entire component.
 
 #### Defined in
 
-[frontend/src/ui/views/frontend/FrontendView.ts:12](https://github.com/Soroush9978/rds-ng/blob/3365237/src/frontend/src/ui/views/frontend/FrontendView.ts#L12)
+[frontend/src/ui/views/frontend/FrontendView.ts:12](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/views/frontend/FrontendView.ts#L12)
 
 ## Properties
 
@@ -51,7 +51,7 @@ The main view enclosing/containing the entire component.
 
 #### Defined in
 
-[common/web/ui/views/View.ts:11](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/views/View.ts#L11)
+[common/web/ui/views/View.ts:11](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/views/View.ts#L11)
 
 ___
 
@@ -65,7 +65,7 @@ ___
 
 #### Defined in
 
-[common/web/ui/views/View.ts:12](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/views/View.ts#L12)
+[common/web/ui/views/View.ts:12](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/views/View.ts#L12)
 
 ___
 
@@ -79,7 +79,7 @@ ___
 
 #### Defined in
 
-[common/web/ui/views/View.ts:10](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/views/View.ts#L10)
+[common/web/ui/views/View.ts:10](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/views/View.ts#L10)
 
 ___
 
@@ -93,7 +93,7 @@ ___
 
 #### Defined in
 
-[common/web/ui/views/View.ts:14](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/views/View.ts#L14)
+[common/web/ui/views/View.ts:14](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/views/View.ts#L14)
 
 ## Accessors
 
@@ -113,7 +113,7 @@ NestedView.name
 
 #### Defined in
 
-[common/web/ui/views/View.ts:72](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/views/View.ts#L72)
+[common/web/ui/views/View.ts:72](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/views/View.ts#L72)
 
 ___
 
@@ -133,7 +133,7 @@ NestedView.subViews
 
 #### Defined in
 
-[common/web/ui/views/View.ts:79](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/views/View.ts#L79)
+[common/web/ui/views/View.ts:79](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/views/View.ts#L79)
 
 ___
 
@@ -149,7 +149,7 @@ The root path of the frontend.
 
 #### Defined in
 
-[frontend/src/ui/views/frontend/FrontendView.ts:30](https://github.com/Soroush9978/rds-ng/blob/3365237/src/frontend/src/ui/views/frontend/FrontendView.ts#L30)
+[frontend/src/ui/views/frontend/FrontendView.ts:30](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/views/frontend/FrontendView.ts#L30)
 
 ## Methods
 
@@ -169,7 +169,7 @@ Defines the route for this view.
 
 #### Defined in
 
-[frontend/src/ui/views/frontend/FrontendView.ts:19](https://github.com/Soroush9978/rds-ng/blob/3365237/src/frontend/src/ui/views/frontend/FrontendView.ts#L19)
+[frontend/src/ui/views/frontend/FrontendView.ts:19](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/views/frontend/FrontendView.ts#L19)
 
 ___
 
@@ -193,7 +193,7 @@ ___
 
 #### Defined in
 
-[common/web/ui/views/NestedView.ts:9](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/views/NestedView.ts#L9)
+[common/web/ui/views/NestedView.ts:9](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/views/NestedView.ts#L9)
 
 ___
 
@@ -223,7 +223,7 @@ Navigates to (= activates) this view.
 
 #### Defined in
 
-[common/web/ui/views/View.ts:64](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/views/View.ts#L64)
+[common/web/ui/views/View.ts:64](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/views/View.ts#L64)
 
 ___
 
@@ -243,4 +243,4 @@ Gets the route of this view.
 
 #### Defined in
 
-[common/web/ui/views/View.ts:39](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/views/View.ts#L39)
+[common/web/ui/views/View.ts:39](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/views/View.ts#L39)

@@ -25,7 +25,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[common/web/core/logging/Formatter.ts:23](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/logging/Formatter.ts#L23)
+[common/web/core/logging/Formatter.ts:23](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/Formatter.ts#L23)
 
 ## Properties
 
@@ -35,7 +35,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[common/web/core/logging/Formatter.ts:20](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/logging/Formatter.ts#L20)
+[common/web/core/logging/Formatter.ts:20](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/Formatter.ts#L20)
 
 ___
 
@@ -45,7 +45,7 @@ ___
 
 #### Defined in
 
-[common/web/core/logging/Formatter.ts:21](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/logging/Formatter.ts#L21)
+[common/web/core/logging/Formatter.ts:21](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/Formatter.ts#L21)
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 #### Defined in
 
-[common/web/core/logging/Formatter.ts:4](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/logging/Formatter.ts#L4)
+[common/web/core/logging/Formatter.ts:4](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/Formatter.ts#L4)
 
 ## Accessors
 
@@ -69,7 +69,7 @@ ___
 
 #### Defined in
 
-[common/web/core/logging/Formatter.ts:42](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/logging/Formatter.ts#L42)
+[common/web/core/logging/Formatter.ts:42](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/Formatter.ts#L42)
 
 ___
 
@@ -83,7 +83,7 @@ ___
 
 #### Defined in
 
-[common/web/core/logging/Formatter.ts:46](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/logging/Formatter.ts#L46)
+[common/web/core/logging/Formatter.ts:46](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/Formatter.ts#L46)
 
 ## Methods
 
@@ -104,7 +104,7 @@ ___
 
 #### Defined in
 
-[common/web/core/logging/Formatter.ts:50](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/logging/Formatter.ts#L50)
+[common/web/core/logging/Formatter.ts:50](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/Formatter.ts#L50)
 
 ___
 
@@ -127,7 +127,7 @@ ___
 
 #### Defined in
 
-[common/web/core/logging/Formatter.ts:54](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/logging/Formatter.ts#L54)
+[common/web/core/logging/Formatter.ts:54](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/Formatter.ts#L54)
 
 ___
 
@@ -147,7 +147,7 @@ ___
 
 #### Defined in
 
-[common/web/core/logging/Formatter.ts:27](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/logging/Formatter.ts#L27)
+[common/web/core/logging/Formatter.ts:27](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/Formatter.ts#L27)
 
 ___
 
@@ -167,7 +167,7 @@ ___
 
 #### Defined in
 
-[common/web/core/logging/Formatter.ts:66](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/logging/Formatter.ts#L66)
+[common/web/core/logging/Formatter.ts:66](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/Formatter.ts#L66)
 
 ___
 
@@ -187,7 +187,7 @@ ___
 
 #### Defined in
 
-[common/web/core/logging/Formatter.ts:73](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/logging/Formatter.ts#L73)
+[common/web/core/logging/Formatter.ts:73](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/Formatter.ts#L73)
 
 ___
 
@@ -207,4 +207,4 @@ ___
 
 #### Defined in
 
-[common/web/core/logging/Formatter.ts:91](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/logging/Formatter.ts#L91)
+[common/web/core/logging/Formatter.ts:91](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/logging/Formatter.ts#L91)

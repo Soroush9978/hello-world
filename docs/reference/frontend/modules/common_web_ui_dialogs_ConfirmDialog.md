@@ -16,7 +16,7 @@ The result of a confirmation dialog in form of a `Promise`.
 
 #### Defined in
 
-[common/web/ui/dialogs/ConfirmDialog.ts:8](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/dialogs/ConfirmDialog.ts#L8)
+[common/web/ui/dialogs/ConfirmDialog.ts:8](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/dialogs/ConfirmDialog.ts#L8)
 
 ## Functions
 
@@ -40,4 +40,4 @@ Shows a confirmation (popup) dialog.
 
 #### Defined in
 
-[common/web/ui/dialogs/ConfirmDialog.ts:17](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/ui/dialogs/ConfirmDialog.ts#L17)
+[common/web/ui/dialogs/ConfirmDialog.ts:17](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/ui/dialogs/ConfirmDialog.ts#L17)

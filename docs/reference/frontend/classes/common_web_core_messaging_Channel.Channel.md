@@ -31,7 +31,7 @@ be dispatched locally and not across the network or *direct* for specific (remot
 
 #### Defined in
 
-[common/web/core/messaging/Channel.ts:22](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/Channel.ts#L22)
+[common/web/core/messaging/Channel.ts:22](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/Channel.ts#L22)
 
 ## Properties
 
@@ -43,7 +43,7 @@ The actual target in case of a direct channel.
 
 #### Defined in
 
-[common/web/core/messaging/Channel.ts:22](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/Channel.ts#L22)
+[common/web/core/messaging/Channel.ts:22](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/Channel.ts#L22)
 
 ___
 
@@ -55,7 +55,7 @@ The channel type.
 
 #### Defined in
 
-[common/web/core/messaging/Channel.ts:22](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/Channel.ts#L22)
+[common/web/core/messaging/Channel.ts:22](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/Channel.ts#L22)
 
 ## Accessors
 
@@ -71,7 +71,7 @@ Whether this is a direct channel.
 
 #### Defined in
 
-[common/web/core/messaging/Channel.ts:48](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/Channel.ts#L48)
+[common/web/core/messaging/Channel.ts:48](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/Channel.ts#L48)
 
 ___
 
@@ -87,7 +87,7 @@ Whether this is a local channel.
 
 #### Defined in
 
-[common/web/core/messaging/Channel.ts:41](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/Channel.ts#L41)
+[common/web/core/messaging/Channel.ts:41](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/Channel.ts#L41)
 
 ___
 
@@ -105,7 +105,7 @@ Generates a ``UnitID`` from the target of this channel.
 
 #### Defined in
 
-[common/web/core/messaging/Channel.ts:30](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/Channel.ts#L30)
+[common/web/core/messaging/Channel.ts:30](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/Channel.ts#L30)
 
 ## Methods
 
@@ -121,7 +121,7 @@ Gets the string representation of this channel.
 
 #### Defined in
 
-[common/web/core/messaging/Channel.ts:55](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/Channel.ts#L55)
+[common/web/core/messaging/Channel.ts:55](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/Channel.ts#L55)
 
 ___
 
@@ -143,7 +143,7 @@ Creates a new direct channel.
 
 #### Defined in
 
-[common/web/core/messaging/Channel.ts:69](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/Channel.ts#L69)
+[common/web/core/messaging/Channel.ts:69](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/Channel.ts#L69)
 
 ___
 
@@ -159,4 +159,4 @@ Creates a new local channel.
 
 #### Defined in
 
-[common/web/core/messaging/Channel.ts:62](https://github.com/Soroush9978/rds-ng/blob/3365237/src/common/web/core/messaging/Channel.ts#L62)
+[common/web/core/messaging/Channel.ts:62](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/common/web/core/messaging/Channel.ts#L62)

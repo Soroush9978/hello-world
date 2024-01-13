@@ -31,4 +31,4 @@ Shows the edit dialog for a project.
 
 #### Defined in
 
-[frontend/src/ui/dialogs/EditProjectDialog.ts:25](https://github.com/Soroush9978/rds-ng/blob/3365237/src/frontend/src/ui/dialogs/EditProjectDialog.ts#L25)
+[frontend/src/ui/dialogs/EditProjectDialog.ts:25](https://github.com/Soroush9978/rds-ng/blob/9a997cb/src/frontend/src/ui/dialogs/EditProjectDialog.ts#L25)
