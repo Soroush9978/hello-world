@@ -1,0 +1,10 @@
+{
+  "items": [
+    "reference/api/component_events",
+    "reference/api/network_commands",
+    "reference/api/network_events",
+    "reference/api/project_commands"
+  ],
+  "label": "api",
+  "type": "category"
+}
